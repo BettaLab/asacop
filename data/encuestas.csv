@@ -1,0 +1,611 @@
+"id","edad","educacion","sexo","localidad","af","cfk","fe","mm","hrl","fm","jm","lc","tf","afi","vc","fa","ms","fas","ds"
+"1","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","González Catán",-3,-3,-3,2,1,3,-3,3,3,3,2,3,2,0,-3
+"2","55 años o más","Terciario INCOMPLETO","Hombre","Lomas del Mirador",-3,-3,-2,1,1,1,0,3,3,2,1,2,2,0,-1
+"3","55 años o más","Terciario COMPLETO","Hombre","San Justo",-3,-3,-3,3,3,0,-3,3,3,3,2,3,3,0,-3
+"4","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","San Justo",-3,-3,-2,2,2,2,3,3,3,3,3,3,-1,2,-2
+"5","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Virrey del Pino",1,-2,-3,1,1,1,1,3,1,1,-2,0,1,0,1
+"6","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","Laferrere",-2,-1,-1,-3,1,0,2,2,0,0,1,0,1,0,1
+"7","Entre 16 y 24 años","Secundaria COMPLETA","Hombre","La Tablada",2,3,3,2,2,-1,3,2,1,1,3,1,2,2,3
+"8","Entre 25 y 34 años","Terciario INCOMPLETO","Mujer","Laferrere",-3,-3,-3,-1,-2,0,-3,2,3,1,-2,0,2,0,-1
+"9","Entre 35 y 54 años","Primaria COMPLETA","Mujer","Aldo Bonzi",1,2,-3,-3,-3,1,-3,2,0,0,-3,0,0,0,1
+"10","55 años o más","Universitario COMPLETO","Hombre","Rafael Castillo",-3,-3,-2,1,2,1,3,2,3,2,3,3,1,1,-3
+"11","Entre 35 y 54 años","Primaria COMPLETA","Mujer","González Catán",3,1,1,-2,2,1,1,2,-2,-2,-3,2,2,1,1
+"12","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Isidro Casanova",-3,-3,-3,3,3,3,-2,2,2,-3,3,-3,2,-3,-3
+"13","55 años o más","Primaria INCOMPLETA","Hombre","Virrey del Pino",-3,-3,-2,2,3,3,2,2,0,3,3,3,2,0,-3
+"14","Entre 35 y 54 años","Terciario INCOMPLETO","Hombre","Laferrere",-3,-3,-3,1,1,1,3,2,1,0,-1,0,1,0,-2
+"15","55 años o más","Universitario INCOMPLETO","Hombre","Ramos Mejía",-3,-3,-3,-1,1,2,-1,2,2,2,1,2,0,0,-2
+"16","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Isidro Casanova",-3,-3,-3,2,2,1,3,2,2,2,2,0,2,-2,-3
+"17","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Isidro Casanova",2,1,-2,-3,-1,1,-1,2,1,-1,2,1,1,1,1
+"18","Entre 16 y 24 años","Terciario INCOMPLETO","Mujer","Ramos Mejía",2,-1,-3,1,3,3,-1,2,2,1,-3,-2,-1,-2,-2
+"19","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Virrey del Pino",1,1,-3,-3,-3,0,-3,2,-1,0,-3,0,1,0,-2
+"20","Entre 25 y 34 años","Primaria INCOMPLETA","Mujer","Virrey del Pino",3,2,1,1,2,2,3,2,2,2,3,2,2,0,2
+"21","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Isidro Casanova",-1,-1,-1,1,1,1,1,1,1,1,1,0,1,2,2
+"22","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Laferrere",3,3,2,-3,2,1,1,1,3,1,2,2,2,2,2
+"23","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Rafael Castillo",2,2,1,-3,-2,-2,1,1,1,2,-3,2,-2,0,-3
+"24","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Ciudad Evita",1,1,1,-2,1,1,3,1,1,1,-3,1,1,1,1
+"25","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Laferrere",0,-3,-2,0,0,0,-1,1,1,0,0,0,-2,0,0
+"26","55 años o más","Primaria COMPLETA","Hombre","González Catán",2,3,1,1,2,1,-1,1,1,1,-3,-2,-2,1,2
+"27","55 años o más","Secundaria INCOMPLETA","Mujer","San Justo",2,1,-1,-3,2,1,-2,1,-1,-1,-1,1,-2,0,1
+"28","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Virrey del Pino",3,3,-1,-3,-3,0,-3,1,0,0,0,0,1,0,1
+"29","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Isidro Casanova",2,1,-2,-2,2,2,2,1,0,0,-2,0,2,2,2
+"30","55 años o más","Terciario COMPLETO","Mujer","Ramos Mejía",-3,-3,-3,3,2,-1,-1,1,1,3,-1,-1,-3,-3,-3
+"31","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Aldo Bonzi",-3,-3,-3,1,1,1,3,1,1,2,3,2,-2,0,-2
+"32","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Laferrere",2,3,1,-3,-2,-1,-2,1,-1,0,-3,2,2,1,1
+"33","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Laferrere",1,1,1,-2,1,1,2,1,-1,-1,-1,-1,1,-1,1
+"34","55 años o más","Universitario COMPLETO","Hombre","Isidro Casanova",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"35","Entre 35 y 54 años","Universitario COMPLETO","Mujer","Virrey del Pino",-3,-3,-3,1,2,2,1,1,1,1,1,3,1,-1,-3
+"36","Entre 25 y 34 años","Secundaria INCOMPLETA","Mujer","Laferrere",3,3,1,0,1,0,0,1,1,1,-2,1,2,1,2
+"37","Entre 35 y 54 años","Universitario COMPLETO","Hombre","Ramos Mejía",-3,-3,-3,2,3,2,2,1,2,2,2,2,1,-2,-3
+"38","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","González Catán",-2,-3,-3,1,1,2,2,1,0,0,-3,0,0,0,-1
+"39","55 años o más","Secundaria INCOMPLETA","Mujer","Ramos Mejía",-3,-3,-3,3,3,3,-2,1,-1,1,1,1,0,-1,-3
+"40","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Rafael Castillo",1,1,2,1,2,2,1,1,-2,1,1,2,0,2,2
+"41","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","González Catán",-3,1,1,-3,1,0,2,1,0,0,-3,0,0,0,-1
+"42","Entre 25 y 34 años","Universitario COMPLETO","Mujer","San Justo",3,3,1,-1,2,1,-3,1,1,0,-2,1,0,1,2
+"43","Entre 25 y 34 años","Primaria COMPLETA","Mujer","Laferrere",1,-2,-3,-2,1,-1,2,1,0,0,-2,-1,1,1,1
+"44","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","González Catán",1,1,-2,-3,-2,-2,-1,1,1,0,3,-1,1,-1,-2
+"45","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Isidro Casanova",1,-1,1,-1,-2,1,-1,1,-1,-1,-2,-1,1,-1,-1
+"46","Entre 35 y 54 años","Primaria COMPLETA","Hombre","González Catán",1,1,-1,-3,3,-2,-3,1,1,2,-3,-1,2,2,1
+"47","Entre 25 y 34 años","Universitario INCOMPLETO","Hombre","Isidro Casanova",-3,-3,-3,-2,2,1,3,1,-2,-1,2,0,-3,-1,-3
+"48","Entre 35 y 54 años","Primaria COMPLETA","Mujer","Isidro Casanova",-2,-3,-3,3,2,3,2,1,2,0,3,0,2,0,-2
+"49","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","Laferrere",3,3,2,-3,1,1,-3,1,-1,0,-3,-2,1,0,2
+"50","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Laferrere",-2,-1,-1,-1,1,1,2,1,1,1,2,1,1,1,2
+"51","Entre 35 y 54 años","Universitario COMPLETO","Mujer","La Tablada",1,-1,-2,-2,1,1,1,1,-2,0,1,0,0,0,-1
+"52","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Isidro Casanova",1,-1,-1,1,3,3,-1,1,1,1,-1,-1,-1,-1,1
+"53","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","González Catán",-1,-2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+"54","Entre 25 y 34 años","Secundaria INCOMPLETA","Mujer","González Catán",3,3,1,-3,-3,-3,-3,-1,-1,1,0,1,1,2,2
+"55","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Isidro Casanova",1,1,2,-2,-1,2,-1,-1,-1,-2,-1,-1,1,-2,-1
+"56","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","González Catán",-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,0,0,-1
+"57","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Isidro Casanova",3,3,2,-3,-3,1,-3,-1,2,-2,-1,-2,-3,1,2
+"58","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Lomas del Mirador",3,3,2,-1,1,1,-1,-1,0,0,-3,0,0,0,1
+"59","Entre 16 y 24 años","Secundaria COMPLETA","Hombre","González Catán",-2,-1,-1,1,2,-1,-3,-1,1,-1,0,1,0,0,1
+"60","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","Villa Madero",1,1,1,-1,-2,-1,1,-1,-1,-1,1,-1,1,-1,1
+"61","Entre 25 y 34 años","Secundaria INCOMPLETA","Mujer","Villa Luzuriaga",3,-3,-3,1,3,-1,2,-1,3,0,3,0,2,0,-3
+"62","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Rafael Castillo",3,-2,1,-3,-3,0,-3,-1,0,-3,-3,2,2,1,-2
+"63","Entre 25 y 34 años","Terciario COMPLETO","Mujer","San Justo",-1,-1,1,-1,2,-2,-1,-1,-1,-1,-2,-1,-1,1,-1
+"64","Entre 16 y 24 años","Terciario INCOMPLETO","Hombre","Laferrere",-3,-3,-3,-2,1,0,1,-1,0,0,2,0,-1,0,-2
+"65","55 años o más","Secundaria INCOMPLETA","Mujer","Isidro Casanova",-1,-1,-1,-3,1,-1,-3,-1,-1,-2,-2,-1,1,0,2
+"66","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Laferrere",-1,-2,1,-1,-1,-1,-1,-1,-1,-1,1,-1,-1,-1,1
+"67","Entre 16 y 24 años","Secundaria INCOMPLETA","Hombre","González Catán",-1,1,0,-3,1,1,3,-1,-1,1,-1,1,1,-1,-1
+"68","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Virrey del Pino",1,2,-1,-3,-3,-1,1,-1,0,0,-2,-3,-1,0,2
+"69","Entre 35 y 54 años","Posgrado y más","Mujer","Isidro Casanova",-2,-2,1,1,1,0,-2,-1,-1,-1,-1,-1,-1,-1,-1
+"70","Entre 35 y 54 años","Terciario COMPLETO","Mujer","San Justo",1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+"71","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","San Justo",-1,-3,-2,-3,-2,-1,-2,-1,-1,-1,-2,-2,-2,-1,-2
+"72","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Rafael Castillo",1,1,1,-3,-1,-2,-2,-1,-1,-1,-1,-1,-1,1,1
+"73","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Lomas del Mirador",0,-2,-3,-2,-1,-1,-2,-1,0,0,-3,-1,0,0,-1
+"74","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","Laferrere",1,1,2,-1,-1,1,-1,-1,1,1,-2,-1,1,1,1
+"75","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","San Justo",-2,-2,-2,-1,-1,1,-2,-1,-1,-1,-1,-1,-1,-1,-1
+"76","Entre 16 y 24 años","Secundaria COMPLETA","Hombre","San Justo",-3,-3,-1,1,-2,1,3,-1,-1,1,2,-1,-1,-1,-1
+"77","Entre 35 y 54 años","Universitario COMPLETO","Mujer","Virrey del Pino",-3,-3,-3,-3,-3,0,2,-1,0,-1,-1,0,-1,0,-1
+"78","Entre 16 y 24 años","Secundaria COMPLETA","Hombre","Isidro Casanova",-1,-1,-1,-1,-2,-2,2,-1,0,0,-3,-3,0,0,-1
+"79","Entre 35 y 54 años","Terciario INCOMPLETO","Hombre","Virrey del Pino",-3,-2,-1,-1,1,-1,-1,-1,-2,-3,-3,0,1,-1,-3
+"80","55 años o más","Secundaria COMPLETA","Mujer","Ramos Mejía",-3,-3,-3,3,3,2,2,-1,-2,-1,-1,1,1,-1,-3
+"81","Entre 25 y 34 años","Secundaria INCOMPLETA","Mujer","Laferrere",3,2,1,-3,1,2,-2,-1,-3,0,0,2,1,-1,1
+"82","55 años o más","Secundaria INCOMPLETA","Hombre","Isidro Casanova",3,2,2,-3,-2,1,1,-1,2,-1,-1,1,2,1,2
+"83","Entre 35 y 54 años","Posgrado y más","Mujer","Ramos Mejía",-3,-3,-3,-2,1,1,2,-1,-2,-2,2,-1,-1,-3,-3
+"84","Entre 25 y 34 años","Secundaria INCOMPLETA","Mujer","Laferrere",-1,-3,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+"85","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Virrey del Pino",-3,-3,-3,1,3,2,3,-1,-1,-1,2,-3,-3,-3,-3
+"86","Entre 25 y 34 años","Universitario INCOMPLETO","Hombre","González Catán",1,1,1,-2,-2,1,2,-1,1,-1,-1,-1,-1,-1,-1
+"87","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Rafael Castillo",1,1,1,-2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1
+"88","55 años o más","Secundaria INCOMPLETA","Mujer","La Tablada",2,3,2,-3,-3,1,-3,-2,-3,-3,-3,-3,-3,-3,2
+"89","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Laferrere",3,3,2,-3,-2,-2,-3,-2,-1,-2,-3,0,0,0,2
+"90","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Laferrere",-3,-3,-2,-2,-2,-2,-2,-2,-2,-2,-1,-1,-2,-2,-2
+"91","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Lomas del Mirador",-3,-3,-3,-2,3,-2,3,-2,-2,-2,-2,-2,3,3,3
+"92","Entre 25 y 34 años","Primaria COMPLETA","Hombre","Isidro Casanova",1,-3,-2,2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2
+"93","Entre 25 y 34 años","Universitario COMPLETO","Mujer","Laferrere",-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2
+"94","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Rafael Castillo",2,-2,-1,-3,2,1,-3,-2,-2,-3,-3,-2,-2,1,1
+"95","Entre 25 y 34 años","Secundaria INCOMPLETA","Mujer","Villa Luzuriaga",2,2,2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2
+"96","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Villa Luzuriaga",2,2,1,-2,-1,-1,-3,-2,-1,-1,1,1,-1,-1,-1
+"97","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","González Catán",1,1,-3,-3,-3,-2,-3,-2,-2,0,1,0,-1,0,2
+"98","Entre 35 y 54 años","Primaria INCOMPLETA","Mujer","Laferrere",-1,-1,1,-2,-2,-1,1,-2,1,-1,-2,-2,-1,1,-1
+"99","Entre 35 y 54 años","Terciario COMPLETO","Hombre","Ciudad Evita",-2,-1,-2,-3,-2,-2,-3,-2,-2,-2,-2,-2,-2,-2,-3
+"100","55 años o más","Terciario COMPLETO","Mujer","González Catán",3,3,1,-3,-2,2,-3,-2,-1,-1,-3,-3,-2,0,3
+"101","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","San Justo",-3,-3,-3,-1,-1,-1,-3,-2,-2,-2,1,-3,-1,-1,-3
+"102","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Lomas del Mirador",-3,-3,-1,-2,-3,1,1,-2,-1,1,2,-2,-1,-1,-2
+"103","55 años o más","Secundaria INCOMPLETA","Hombre","Ramos Mejía",-2,-2,-2,1,2,1,-2,-2,-2,-2,1,-2,-2,-2,-2
+"104","Entre 16 y 24 años","Secundaria COMPLETA","Hombre","González Catán",2,-1,2,-3,-3,-2,-2,-2,0,0,-1,-1,1,-2,1
+"105","Entre 35 y 54 años","Terciario COMPLETO","Mujer","González Catán",3,3,1,-3,-3,2,-3,-2,0,0,-2,0,1,0,1
+"106","55 años o más","Universitario INCOMPLETO","Hombre","Ramos Mejía",-1,-3,-3,-3,-3,3,3,-2,-2,0,3,1,-2,-2,-3
+"107","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Virrey del Pino",1,1,1,-3,1,-1,-2,-2,-2,-1,-3,-2,-3,-1,1
+"108","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Isidro Casanova",-1,2,1,-2,-2,-2,-2,-2,-2,-2,-3,-2,-2,-3,1
+"109","Entre 16 y 24 años","Secundaria INCOMPLETA","Mujer","Isidro Casanova",1,1,-1,-3,-3,-2,-3,-2,0,0,-3,0,-1,0,1
+"110","55 años o más","Universitario COMPLETO","Mujer","González Catán",-3,-3,-3,1,2,2,-1,-2,1,-2,-2,-2,-1,-2,-3
+"111","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Ramos Mejía",-3,-3,-3,-2,1,2,1,-2,-2,-3,2,-3,-3,-3,-3
+"112","Entre 35 y 54 años","Terciario COMPLETO","Mujer","San Justo",-1,-3,-3,-1,2,1,1,-2,-1,1,-2,-2,0,0,-1
+"113","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Villa Madero",1,-2,1,1,2,-1,-3,-2,-1,-2,-3,1,1,1,-2
+"114","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","González Catán",1,1,-1,-2,1,-1,-2,-2,0,-1,-2,-1,-2,-2,-2
+"115","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","González Catán",1,2,-3,-3,-3,-2,-2,-2,-2,-2,-2,-2,-2,0,-1
+"116","Entre 35 y 54 años","Universitario COMPLETO","Mujer","Villa Madero",1,2,-1,-3,-3,-3,-3,-2,-2,-3,-3,0,-1,0,-1
+"117","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","González Catán",-1,2,-1,-3,-3,-2,-2,-2,-2,-1,-3,-1,-1,-2,-2
+"118","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Isidro Casanova",2,2,-3,-2,2,-2,-2,-2,0,0,-3,2,0,0,1
+"119","Entre 35 y 54 años","Universitario INCOMPLETO","Hombre","San Justo",-2,-2,-2,-2,-2,-2,-2,-2,2,-2,-3,-3,-2,0,0
+"120","Entre 16 y 24 años","Terciario INCOMPLETO","Mujer","San Justo",-3,-3,1,-3,-3,-3,-3,-2,-2,-2,-2,-3,-1,-1,-1
+"121","Entre 16 y 24 años","Secundaria COMPLETA","Hombre","Isidro Casanova",-1,-1,-3,-3,1,-2,-3,-2,-2,-1,-3,-1,-1,-2,-3
+"122","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Rafael Castillo",-1,-2,-2,-1,-1,1,1,-2,-2,-2,-2,-2,-2,-2,-2
+"123","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Isidro Casanova",-3,-3,-3,-3,1,3,-2,-2,-2,0,-3,0,0,0,-3
+"124","Entre 16 y 24 años","Secundaria INCOMPLETA","Mujer","Ramos Mejía",-3,-3,-3,-3,3,2,3,-2,0,-1,2,1,0,-2,-1
+"125","55 años o más","Universitario COMPLETO","Hombre","Virrey del Pino",-1,2,-2,-3,-1,-1,-3,-2,-2,-3,-3,-3,-1,-1,1
+"126","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Virrey del Pino",2,2,1,-1,1,2,-2,-2,-2,-2,-3,-2,-1,-1,1
+"127","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Isidro Casanova",-2,-1,-2,-3,-1,-2,-2,-2,-2,-1,-2,-1,-1,-2,-1
+"128","Entre 16 y 24 años","Terciario INCOMPLETO","Mujer","Laferrere",-3,-3,-3,-2,1,-1,-3,-2,-2,-2,-3,-3,-3,-2,-3
+"129","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Laferrere",-1,-2,-1,-3,-1,-2,-2,-2,-2,-2,1,-2,-2,-2,-2
+"130","Entre 35 y 54 años","Primaria COMPLETA","Mujer","Isidro Casanova",3,3,-3,-3,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2
+"131","55 años o más","Primaria COMPLETA","Mujer","Laferrere",2,2,-3,-3,-3,0,-2,-2,0,-2,-3,2,3,1,2
+"132","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","Ciudad Evita",-2,-2,-2,-1,-2,-1,-2,-2,-2,-2,-2,-2,-2,-2,-2
+"133","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","La Tablada",3,3,3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,2
+"134","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","San Justo",1,2,-2,-3,-3,-3,-3,-3,0,0,-3,0,0,0,1
+"135","55 años o más","Terciario INCOMPLETO","Mujer","Tapiales",1,3,3,-3,-3,-1,-3,-3,-3,-1,-3,0,-1,-3,2
+"136","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Aldo Bonzi",2,3,2,-3,-3,0,-3,-3,0,0,-3,0,-3,0,2
+"137","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Isidro Casanova",-3,-1,-3,-3,-3,-3,1,-3,-3,-3,-3,1,-3,-3,-2
+"138","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Ciudad Evita",-2,-3,-3,-3,-1,1,-1,-3,-3,-2,-1,-2,1,-2,-3
+"139","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Ramos Mejía",-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,2,2,1,0,-3
+"140","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Virrey del Pino",-3,-3,-3,-1,1,-1,1,-3,0,0,-1,-1,-2,-2,-3
+"141","Entre 16 y 24 años","Secundaria COMPLETA","Hombre","Isidro Casanova",-3,-3,0,3,3,2,2,-3,-3,-3,-1,-3,-3,-3,-3
+"142","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","González Catán",2,3,-2,-3,1,1,-3,-3,-2,0,-3,-2,0,0,1
+"143","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","González Catán",1,2,-1,-3,-3,-3,-3,-3,-3,0,-3,0,0,0,-1
+"144","55 años o más","Secundaria COMPLETA","Hombre","Rafael Castillo",2,3,-1,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-2,2
+"145","Entre 25 y 34 años","Secundaria INCOMPLETA","Mujer","Virrey del Pino",2,3,-1,-3,-3,-3,-3,-3,-3,-2,-2,-1,-2,-1,1
+"146","55 años o más","Primaria INCOMPLETA","Mujer","Isidro Casanova",1,1,1,-3,-3,-3,-3,-3,-3,-3,-3,-2,-2,-2,-1
+"147","55 años o más","Secundaria INCOMPLETA","Mujer","Rafael Castillo",2,3,3,-3,-2,-2,-2,-3,-1,-2,-3,-1,1,-2,2
+"148","55 años o más","Posgrado y más","Hombre","Laferrere",1,2,2,-3,-3,1,-3,-3,-3,-3,-3,-3,-1,-2,3
+"149","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Villa Luzuriaga",2,3,3,-3,-3,-1,-3,-3,-3,-3,-3,-3,-3,-3,1
+"150","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Isidro Casanova",3,3,3,-3,-3,-3,-3,-3,-3,-3,-3,-1,-2,-2,-2
+"151","Entre 35 y 54 años","Terciario COMPLETO","Mujer","González Catán",1,2,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-2,0,-2
+"152","Entre 25 y 34 años","Terciario COMPLETO","Hombre","Villa Luzuriaga",1,3,1,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,0,1
+"153","Entre 25 y 34 años","Terciario COMPLETO","Hombre","Isidro Casanova",-1,-1,-3,-3,-3,-2,-1,-3,-3,-3,-3,-3,0,0,-3
+"154","Entre 35 y 54 años","Primaria INCOMPLETA","Hombre","González Catán",-3,2,-3,-3,-3,-3,-3,-3,-1,-3,-3,0,-1,-3,-3
+"155","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Ramos Mejía",-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3
+"156","Entre 16 y 24 años","Terciario INCOMPLETO","Mujer","Villa Luzuriaga",-1,1,-1,-3,-3,-1,-3,-3,-3,-3,-3,-2,-2,-1,-1
+"157","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","La Tablada",-3,-3,-3,-1,1,-2,1,-3,-2,-2,-1,-3,-3,-3,-3
+"158","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","González Catán",0,3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,2,1,-1
+"159","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Villa Luzuriaga",-2,-2,2,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3
+"160","55 años o más","Universitario COMPLETO","Hombre","Lomas del Mirador",1,3,2,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,1
+"161","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Lomas del Mirador",-1,1,-3,-3,-3,-3,-3,-3,0,0,-3,0,0,0,-3
+"162","Entre 16 y 24 años","Terciario COMPLETO","Mujer","González Catán",1,3,-2,-3,2,0,0,-3,0,0,-3,0,0,0,1
+"163","Entre 35 y 54 años","Terciario COMPLETO","Hombre","San Justo",-3,-3,-3,-2,1,1,0,-3,0,-3,1,0,-1,0,-1
+"164","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Laferrere",-1,1,1,-2,-1,-1,1,-3,0,0,-2,0,-1,0,-1
+"165","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","González Catán",-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3
+"166","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Ciudad Evita",-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3
+"167","Entre 16 y 24 años","Primaria COMPLETA","Hombre","Isidro Casanova",-3,-3,-1,-1,1,-2,2,-3,-2,-1,1,-1,-3,-2,-3
+"168","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Isidro Casanova",1,2,-3,-3,-3,-3,-3,-3,-1,0,-3,0,-3,-1,-3
+"169","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","San Justo",-3,-3,-3,-1,2,2,2,-3,-3,-3,-2,-3,-3,0,-3
+"170","Entre 25 y 34 años","Terciario INCOMPLETO","Mujer","Isidro Casanova",1,3,1,-3,-3,-3,-3,-3,-3,-3,-3,2,-1,1,2
+"171","Entre 35 y 54 años","Terciario COMPLETO","Hombre","La Tablada",-3,-3,-3,1,3,-3,3,-3,-3,-3,2,2,-3,-3,-3
+"172","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","Isidro Casanova",2,3,3,-3,-3,-2,-3,-3,-3,-3,-3,-3,-3,-2,3
+"173","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Rafael Castillo",3,3,2,-3,-3,-2,-3,-3,-3,-2,-3,1,2,-2,-2
+"174","Entre 35 y 54 años","Terciario COMPLETO","Hombre","Villa Luzuriaga",1,3,2,-3,-3,-2,-3,-3,-3,-3,-3,2,-3,1,2
+"175","Entre 35 y 54 años","Terciario COMPLETO","Hombre","Villa Madero",-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3
+"176","55 años o más","Universitario COMPLETO","Mujer","Villa Luzuriaga",3,3,3,-3,-3,-2,-3,-3,-3,-3,-3,-3,-1,1,3
+"177","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","González Catán",3,2,1,-3,-3,-3,-3,-3,-3,-3,-3,-2,-2,-3,2
+"178","Entre 16 y 24 años","Primaria COMPLETA","Mujer","Isidro Casanova",1,1,-3,-3,-3,-3,-3,-3,-3,-3,0,-1,-1,-1,0
+"179","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Isidro Casanova",-3,-3,-3,-1,2,2,2,-3,0,0,-1,0,0,0,-2
+"180","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Laferrere",1,3,1,-3,-3,-2,-3,-3,-3,-2,-3,-2,-3,-2,1
+"181","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Virrey del Pino",3,2,2,-3,-2,0,0,0,0,0,-3,0,0,0,1
+"182","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Laferrere",1,2,2,-3,-2,-2,-3,0,0,0,-3,0,-2,0,2
+"183","55 años o más","Universitario COMPLETO","Hombre","San Justo",-3,-3,-3,2,-1,1,2,0,3,2,2,2,2,-2,-3
+"184","Entre 25 y 34 años","Terciario COMPLETO","Mujer","Villa Celina",1,-1,-3,-3,-3,-1,-3,0,-1,0,-3,-1,-1,0,-1
+"185","Entre 25 y 34 años","Terciario COMPLETO","Hombre","Laferrere",-1,2,-1,-3,1,0,-3,0,0,0,-3,0,0,0,-1
+"186","Entre 35 y 54 años","Primaria INCOMPLETA","Mujer","Laferrere",-3,-3,-3,3,3,0,-3,0,0,0,2,2,0,-3,-3
+"187","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Ciudad Evita",3,3,2,-3,1,0,0,0,0,0,0,0,0,0,3
+"188","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Isidro Casanova",-2,1,-2,-3,-3,0,-2,0,0,0,-3,0,-1,0,-1
+"189","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","Ramos Mejía",-1,-3,-1,1,1,2,-1,0,2,0,0,0,0,0,0
+"190","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","La Tablada",-2,-2,1,1,2,1,1,0,0,0,1,0,1,0,1
+"191","Entre 35 y 54 años","Universitario COMPLETO","Mujer","Lomas del Mirador",-3,-3,-3,2,2,1,1,0,1,1,1,3,-1,0,-3
+"192","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Lomas del Mirador",0,-3,-3,-3,-3,0,0,0,0,-1,-3,0,-2,0,-2
+"193","55 años o más","Terciario INCOMPLETO","Mujer","Ramos Mejía",-3,-3,-3,3,3,-2,2,0,3,0,3,-2,0,0,-3
+"194","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Isidro Casanova",-3,-3,1,1,2,0,0,0,0,0,-3,0,0,1,1
+"195","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","González Catán",3,2,-1,-3,-1,0,0,0,0,0,-2,0,0,0,2
+"196","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","La Tablada",2,3,1,-3,-3,1,-3,0,0,0,-3,0,0,0,1
+"197","Entre 25 y 34 años","Terciario COMPLETO","Hombre","Lomas del Mirador",2,2,-1,-3,-3,-2,-3,0,0,0,-3,0,0,0,1
+"198","Entre 16 y 24 años","Secundaria INCOMPLETA","Mujer","La Tablada",1,2,1,-3,-1,1,1,0,0,0,-3,0,0,0,-1
+"199","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","González Catán",-1,-1,-3,-3,-3,-3,-3,0,-3,0,-2,0,0,0,1
+"200","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","Laferrere",-2,-3,-3,-1,1,0,1,0,0,0,3,0,0,0,-3
+"201","55 años o más","Posgrado y más","Mujer","Ramos Mejía",-3,-3,-3,-1,1,2,-3,0,2,1,-2,1,1,-1,-3
+"202","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Isidro Casanova",3,3,1,-3,-1,0,0,0,0,0,0,0,0,0,-1
+"203","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Villa Luzuriaga",-2,-1,-1,-2,-2,1,-1,0,0,0,-2,0,-1,0,-1
+"204","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Villa Celina",-3,-3,-3,-3,-2,0,3,0,0,0,2,0,0,0,-3
+"205","55 años o más","Posgrado y más","Mujer","Ramos Mejía",-3,-3,-3,-3,-2,2,1,0,1,3,1,2,-2,-2,-3
+"206","55 años o más","Terciario COMPLETO","Mujer","San Justo",-2,-3,-3,2,2,2,-3,0,2,0,1,0,0,0,-3
+"207","55 años o más","Universitario INCOMPLETO","Hombre","Villa Luzuriaga",1,3,1,-3,-3,-3,-3,0,-3,-1,-3,-3,0,0,1
+"208","Entre 35 y 54 años","Universitario INCOMPLETO","Hombre","Laferrere",2,3,3,-3,-3,-1,-3,0,-2,0,-3,-3,-3,0,2
+"209","Entre 35 y 54 años","Primaria COMPLETA","Hombre","Laferrere",-3,-3,-3,-3,-3,-3,-1,0,-3,0,-2,0,-3,0,-1
+"210","55 años o más","Primaria COMPLETA","Hombre","Villa Madero",-3,-3,-3,1,-2,0,2,0,2,0,3,3,-2,0,-3
+"211","55 años o más","Secundaria INCOMPLETA","Hombre","Villa Celina",-1,-3,-1,2,2,2,-3,0,2,2,3,3,0,-1,-2
+"212","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Ramos Mejía",-2,-3,-3,-1,1,0,0,0,0,0,0,0,0,0,-2
+"213","Entre 16 y 24 años","Secundaria INCOMPLETA","Hombre","Villa Luzuriaga",-2,-3,-2,-1,1,-1,1,0,0,0,1,0,0,0,-1
+"214","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Villa Luzuriaga",-2,-2,-3,-1,2,2,-1,0,-3,-3,-3,-2,-2,-1,-3
+"215","Entre 16 y 24 años","Universitario INCOMPLETO","Hombre","Ramos Mejía",-3,-3,-3,1,-1,-1,3,0,0,0,1,0,0,0,-2
+"216","55 años o más","Primaria COMPLETA","Hombre","Ramos Mejía",2,2,2,-3,-1,2,-2,0,1,-1,-3,0,-1,0,2
+"217","Entre 35 y 54 años","Universitario INCOMPLETO","Hombre","San Justo",-1,1,-3,-3,-2,0,-3,0,0,0,-3,0,0,0,-2
+"218","Entre 35 y 54 años","Terciario INCOMPLETO","Hombre","Villa Luzuriaga",3,3,0,0,0,0,3,0,0,0,3,0,0,0,2
+"219","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Laferrere",-1,-1,1,-1,-1,1,-3,0,0,0,-1,0,0,0,1
+"220","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","González Catán",2,-2,1,-3,2,2,-3,0,0,0,3,0,-1,0,-2
+"221","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Isidro Casanova",1,-2,0,-2,2,0,3,0,0,0,2,0,0,0,-3
+"222","Entre 16 y 24 años","Secundaria INCOMPLETA","Mujer","González Catán",-1,-3,-3,-3,-2,-2,-2,0,0,0,-3,-2,-2,0,-2
+"223","Entre 35 y 54 años","Primaria INCOMPLETA","Mujer","Rafael Castillo",-1,-2,-2,-3,1,0,2,0,0,0,0,-1,0,0,-1
+"224","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","González Catán",3,3,1,-3,-3,0,0,0,0,0,-1,0,0,0,1
+"225","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Villa Celina",-1,-1,-3,-3,-3,-3,-3,0,0,0,-3,0,0,0,-2
+"226","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Isidro Casanova",1,2,1,-3,-2,-2,-3,0,0,-1,-3,-3,-2,-3,1
+"227","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Virrey del Pino",-3,-3,-3,-3,1,0,3,0,1,0,-3,0,0,0,-1
+"228","Entre 35 y 54 años","Universitario INCOMPLETO","Hombre","Laferrere",-3,-3,-3,-1,2,2,2,0,0,0,0,0,0,0,-3
+"229","Entre 35 y 54 años","Primaria INCOMPLETA","Mujer","Ciudad Evita",3,3,3,-3,-3,0,-3,0,0,-3,-3,0,0,0,1
+"230","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","San Justo",3,-3,2,-2,-1,0,0,0,0,0,-3,0,0,0,-1
+"231","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Virrey del Pino",2,2,1,-2,-2,1,-2,0,-2,1,-2,1,-2,1,-1
+"232","55 años o más","Secundaria INCOMPLETA","Mujer","La Tablada",1,1,1,1,2,2,1,0,1,2,3,0,2,0,2
+"233","Entre 35 y 54 años","Terciario INCOMPLETO","Hombre","Aldo Bonzi",1,2,1,-3,-3,1,-3,0,-3,-3,-3,0,0,0,1
+"234","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Ciudad Evita",-3,-3,-3,-3,1,0,1,0,0,0,3,0,1,0,1
+"235","Entre 16 y 24 años","Universitario INCOMPLETO","Hombre","Villa Luzuriaga",-1,1,-3,-3,-2,2,-2,0,-2,-1,-3,1,-2,0,-1
+"236","Entre 25 y 34 años","Posgrado y más","Hombre","Ramos Mejía",-1,3,-3,-3,-3,-1,-3,0,0,0,-3,-3,0,0,1
+"237","Entre 25 y 34 años","Universitario INCOMPLETO","Mujer","Ciudad Evita",3,3,1,-3,1,0,-2,0,0,0,-3,0,0,0,1
+"238","Entre 35 y 54 años","Universitario COMPLETO","Mujer","San Justo",-3,-3,-3,1,2,1,-3,0,-2,-2,-1,-3,-2,0,-2
+"239","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","Rafael Castillo",1,-3,-2,-3,1,0,-3,0,0,0,-3,0,0,0,-3
+"240","55 años o más","Secundaria INCOMPLETA","Mujer","Laferrere",-1,-3,-3,-1,1,1,1,0,-1,-1,-3,0,1,0,-2
+"241","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Laferrere",2,3,-2,-3,-2,0,2,0,0,0,-2,0,-2,0,2
+"242","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Virrey del Pino",3,3,1,2,2,0,0,0,0,0,-1,0,1,0,1
+"243","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","González Catán",3,3,2,-3,-3,-3,-2,0,0,2,-3,0,-2,-1,1
+"244","Entre 35 y 54 años","Terciario COMPLETO","Mujer","La Tablada",-3,-3,-3,-2,2,2,-1,0,0,0,1,0,0,0,-2
+"245","55 años o más","Terciario COMPLETO","Hombre","Ciudad Evita",-3,-3,-3,3,3,3,3,0,3,3,2,3,1,0,-3
+"246","Entre 25 y 34 años","Terciario COMPLETO","Hombre","González Catán",-3,-3,-3,-2,-3,-2,3,0,0,0,2,0,0,0,-1
+"247","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","González Catán",1,2,1,-3,-2,0,-3,0,0,0,-3,-3,-1,0,-1
+"248","Entre 35 y 54 años","Primaria COMPLETA","Mujer","La Tablada",0,0,1,2,3,0,3,0,0,0,3,0,0,0,1
+"249","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Villa Madero",-3,-3,0,1,1,0,-3,0,0,0,-3,-3,0,0,-2
+"250","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Laferrere",3,3,2,-3,-3,0,3,0,0,0,2,0,0,0,3
+"251","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Virrey del Pino",0,0,1,0,0,0,0,0,0,0,-3,0,0,0,-1
+"252","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Rafael Castillo",-2,-2,-2,-2,0,0,0,0,0,0,-3,0,0,0,-1
+"253","Entre 35 y 54 años","Universitario INCOMPLETO","Hombre","Villa Luzuriaga",2,3,-1,-3,-2,2,-3,0,0,-3,-3,0,0,0,3
+"254","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Villa Luzuriaga",-1,-3,-1,1,1,0,0,0,0,0,0,0,0,0,-2
+"255","55 años o más","Universitario COMPLETO","Mujer","Ramos Mejía",-1,-3,-3,-2,-1,-1,-3,0,0,0,-3,0,0,0,-3
+"256","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","González Catán",-1,3,-1,-3,-3,-3,1,0,0,0,-3,-3,0,0,1
+"257","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","González Catán",-1,2,2,-2,-2,0,-2,0,0,-1,-2,1,1,1,3
+"258","55 años o más","Primaria COMPLETA","Mujer","Villa Madero",0,0,-1,1,3,3,2,0,0,0,0,0,0,0,-1
+"259","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Ciudad Evita",1,-2,-2,-2,2,2,-2,0,0,0,-2,0,0,-2,1
+"260","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Laferrere",1,1,-1,-2,-1,0,-1,0,-2,-2,-3,0,0,0,1
+"261","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","Villa Luzuriaga",-3,-3,-3,-1,2,3,3,0,2,2,3,1,1,0,-3
+"262","55 años o más","Terciario COMPLETO","Mujer","Laferrere",2,3,1,-2,-2,-2,-2,0,1,0,-2,1,-2,-2,1
+"263","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Isidro Casanova",1,1,1,-3,-2,1,-3,0,1,0,-2,0,2,0,2
+"264","Entre 25 y 34 años","Terciario COMPLETO","Mujer","González Catán",-2,-2,-2,-2,-2,-1,-1,0,0,0,-1,0,0,0,1
+"265","Entre 16 y 24 años","Posgrado y más","Mujer","González Catán",-3,-3,-3,3,3,2,2,0,0,1,1,0,1,0,-2
+"266","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Virrey del Pino",1,1,-2,-2,1,1,1,0,0,0,1,0,0,0,-2
+"267","Entre 35 y 54 años","Universitario COMPLETO","Mujer","La Tablada",-2,-2,-3,1,2,2,1,0,1,2,-2,0,2,0,-2
+"268","55 años o más","Secundaria INCOMPLETA","Mujer","Virrey del Pino",-1,-1,-2,-3,1,2,0,0,0,0,-3,0,2,0,-2
+"269","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Ramos Mejía",-3,-3,-3,2,2,-1,1,0,0,0,-3,0,0,0,-1
+"270","Entre 25 y 34 años","Universitario COMPLETO","Hombre","Villa Celina",1,1,-1,-3,-2,-1,1,0,0,0,-3,0,0,0,1
+"271","Entre 16 y 24 años","Secundaria INCOMPLETA","Hombre","Ramos Mejía",-3,-3,-3,2,2,1,3,0,0,0,1,0,0,0,-2
+"272","Entre 16 y 24 años","Secundaria INCOMPLETA","Mujer","Isidro Casanova",3,3,3,-1,-2,-1,-3,0,-3,-1,-3,-3,-1,0,1
+"273","Entre 35 y 54 años","Terciario COMPLETO","Hombre","Laferrere",-3,3,3,-3,2,-1,-2,0,-1,-3,-3,0,-2,0,1
+"274","Entre 35 y 54 años","Universitario INCOMPLETO","Hombre","Ramos Mejía",-1,-2,-3,-1,-1,0,1,0,0,0,-1,0,0,0,1
+"275","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","González Catán",-2,-2,-2,2,3,-1,2,0,0,0,1,-2,-2,0,1
+"276","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","La Tablada",-3,-3,-3,-2,-2,1,3,0,1,0,3,2,0,0,-3
+"277","55 años o más","Secundaria COMPLETA","Mujer","San Justo",3,3,2,-3,-3,0,-3,0,0,0,-3,-3,-3,0,2
+"278","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","San Justo",-1,-1,-1,-3,-3,0,0,0,0,0,-3,0,-1,0,-1
+"279","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Villa Madero",2,2,-1,-3,-3,-3,-3,0,-3,-3,-3,0,0,0,1
+"280","55 años o más","Universitario COMPLETO","Mujer","Virrey del Pino",2,2,2,-2,1,0,0,0,0,0,2,0,2,3,1
+"281","Entre 25 y 34 años","Universitario INCOMPLETO","Mujer","Laferrere",-1,-3,-2,-2,-2,0,-2,0,1,0,-3,0,1,0,-1
+"282","55 años o más","Secundaria COMPLETA","Hombre","Ciudad Evita",1,3,2,-3,-2,2,-3,0,-2,-2,-3,-3,-1,0,2
+"283","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Ciudad Evita",-3,-3,-3,-1,1,0,1,0,0,0,-2,0,-2,0,-3
+"284","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","San Justo",3,3,-3,-3,-3,0,-3,0,0,0,-3,0,0,0,1
+"285","55 años o más","Secundaria COMPLETA","Mujer","San Justo",-3,-3,-3,-3,2,0,0,0,0,0,-2,0,0,0,2
+"286","55 años o más","Universitario INCOMPLETO","Hombre","La Tablada",-3,-3,-3,-2,3,1,-3,0,0,0,2,-1,0,0,1
+"287","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","San Justo",3,3,2,-3,-3,-3,-3,0,-3,-3,-3,-3,-3,-3,-3
+"288","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Ramos Mejía",1,1,-1,-1,1,2,-3,0,0,1,1,2,1,1,-1
+"289","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Ciudad Evita",1,1,1,-2,0,0,-1,0,0,0,-1,0,0,0,-1
+"290","55 años o más","Secundaria COMPLETA","Mujer","Lomas del Mirador",-3,-3,-3,-3,1,2,-1,0,-1,0,-3,-1,0,0,-2
+"291","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Laferrere",2,3,-1,-3,-3,0,-3,0,0,0,-3,1,-3,0,1
+"292","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","San Justo",-2,-3,1,1,1,0,-2,0,0,0,-1,1,0,0,1
+"293","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Isidro Casanova",1,2,-1,-3,-3,1,-3,0,0,0,-3,2,0,-3,-3
+"294","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Villa Luzuriaga",-3,-3,-3,2,2,3,1,0,2,2,2,3,0,0,-3
+"295","Entre 35 y 54 años","Universitario COMPLETO","Hombre","Ciudad Evita",-3,-3,-3,1,1,2,1,0,2,2,-1,-1,1,0,-2
+"296","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Isidro Casanova",-2,-1,-2,-2,1,1,2,0,-1,-1,1,0,-1,-2,-1
+"297","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Virrey del Pino",-1,-1,-2,-1,-2,0,1,0,0,-1,1,0,0,0,-1
+"298","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Rafael Castillo",-3,-3,-3,-3,-3,0,1,0,0,0,-3,-2,-2,0,-2
+"299","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Laferrere",-1,-1,-3,-3,-3,1,-3,0,-2,0,-3,0,-2,0,-3
+"300","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Villa Madero",-1,-2,-3,-2,1,1,-1,0,0,0,-3,0,0,0,-2
+"301","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","20 de Junio",0,2,1,-3,1,-1,-1,0,1,-1,3,1,1,1,1
+"302","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Ramos Mejía",-1,-1,1,-2,2,0,-1,0,0,0,0,0,0,0,1
+"303","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Isidro Casanova",1,-2,-3,-1,1,0,-3,0,0,0,-1,0,-2,0,-2
+"304","55 años o más","Universitario COMPLETO","Mujer","Ramos Mejía",-3,-3,-3,2,2,1,1,0,2,2,3,3,0,0,-3
+"305","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","La Tablada",1,-1,-1,-3,1,0,-1,0,0,0,-3,-3,1,0,1
+"306","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Ramos Mejía",-3,-3,-3,-2,2,1,-1,0,0,0,-2,-1,0,0,-3
+"307","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","Isidro Casanova",-3,-3,-3,3,3,1,1,0,0,0,3,1,0,0,-3
+"308","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","La Tablada",3,3,-3,-2,-1,-1,2,0,0,-2,-2,0,0,2,2
+"309","55 años o más","Terciario COMPLETO","Hombre","González Catán",-2,-2,-3,-1,2,1,-1,0,2,2,3,2,-1,0,-3
+"310","Entre 25 y 34 años","Secundaria INCOMPLETA","Mujer","Virrey del Pino",2,1,-1,-2,1,1,-1,0,0,0,-2,2,-1,0,-1
+"311","Entre 25 y 34 años","Terciario INCOMPLETO","Mujer","Laferrere",-2,-2,-2,-2,-2,2,1,0,0,0,-2,0,0,0,-2
+"312","55 años o más","Terciario INCOMPLETO","Mujer","Isidro Casanova",3,3,-1,-1,2,2,-1,0,-1,0,1,0,-1,0,1
+"313","Entre 25 y 34 años","Secundaria INCOMPLETA","Mujer","Virrey del Pino",3,3,-2,-3,-2,0,-2,0,0,0,-3,-1,-1,0,-1
+"314","Entre 35 y 54 años","Primaria COMPLETA","Mujer","Isidro Casanova",-1,3,1,-3,-3,-1,-3,0,-2,-2,-3,0,-3,0,-1
+"315","Entre 25 y 34 años","Universitario COMPLETO","Mujer","Villa Celina",1,1,0,-1,-1,0,0,0,0,0,-2,0,0,0,0
+"316","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Lomas del Mirador",-3,-3,-3,-2,1,1,1,0,0,0,1,2,0,0,-3
+"317","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Rafael Castillo",3,3,1,-3,2,-1,1,0,0,0,-3,1,1,-1,1
+"318","Entre 35 y 54 años","Primaria COMPLETA","Mujer","Rafael Castillo",3,3,2,0,-2,0,0,0,0,0,-3,0,0,0,2
+"319","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Ramos Mejía",-2,-3,-1,-3,-3,0,0,0,1,0,0,0,0,0,1
+"320","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","La Tablada",2,1,-3,-3,2,2,-3,0,0,0,-3,-2,0,0,-1
+"321","Entre 35 y 54 años","Terciario INCOMPLETO","Hombre","Laferrere",-3,-3,-3,-2,2,2,2,0,-1,-2,-2,-3,-3,-3,-3
+"322","55 años o más","Universitario COMPLETO","Mujer","Ramos Mejía",1,-1,0,-2,-1,-1,2,0,0,0,-2,0,-3,0,1
+"323","55 años o más","Universitario COMPLETO","Hombre","Villa Luzuriaga",1,3,1,-3,-3,-2,-3,0,-2,-2,-3,0,0,0,2
+"324","Entre 35 y 54 años","Posgrado y más","Hombre","Ramos Mejía",-1,-3,-2,-2,-2,2,3,0,1,2,-2,1,-1,0,-2
+"325","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Ciudad Evita",1,1,1,-3,-3,-1,-3,0,0,-2,-3,0,-2,0,1
+"326","Entre 35 y 54 años","Universitario COMPLETO","Hombre","Ciudad Evita",-3,-3,-3,-2,-2,2,-3,0,3,1,2,3,-2,0,-2
+"327","Entre 35 y 54 años","Primaria COMPLETA","Hombre","Isidro Casanova",-1,-2,-2,-3,-1,1,-1,0,-2,1,-2,1,-1,0,1
+"328","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","San Justo",-3,-3,-2,1,2,2,2,0,-1,1,1,0,-1,0,-3
+"329","55 años o más","Posgrado y más","Mujer","San Justo",-3,-3,-3,3,2,2,-3,0,3,3,1,3,1,0,-3
+"330","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Isidro Casanova",1,2,-3,-3,1,0,-1,0,0,0,-3,1,-1,0,-3
+"331","Entre 25 y 34 años","Universitario INCOMPLETO","Mujer","Laferrere",1,-1,-1,-1,-1,0,-1,0,0,0,-2,0,1,0,1
+"332","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Villa Luzuriaga",-3,-3,-3,-3,-1,3,2,0,0,0,-3,0,0,0,-2
+"333","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Villa Celina",1,-1,-3,1,2,0,-1,0,0,0,0,0,0,0,1
+"334","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Virrey del Pino",2,2,1,-3,-3,0,0,0,0,0,0,0,0,0,0
+"335","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","Virrey del Pino",1,1,-1,-2,0,0,0,0,0,0,0,0,0,0,-2
+"336","Entre 25 y 34 años","Universitario INCOMPLETO","Mujer","Villa Luzuriaga",2,2,-1,-3,0,0,0,0,0,0,-3,0,2,0,1
+"337","Entre 35 y 54 años","Primaria COMPLETA","Hombre","González Catán",-3,-3,-2,1,2,3,3,0,0,0,3,0,2,0,-1
+"338","55 años o más","Secundaria INCOMPLETA","Mujer","La Tablada",2,1,-2,-2,0,0,0,0,0,0,-1,0,0,0,2
+"339","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Laferrere",-1,1,-1,-3,-1,-1,-2,0,0,-1,-2,0,-1,0,-1
+"340","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Virrey del Pino",-3,-3,-3,-1,-2,-1,3,0,2,-1,1,-1,-2,-3,-3
+"341","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","González Catán",-3,2,-3,-3,2,2,2,0,-3,0,-3,0,0,0,-3
+"342","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Virrey del Pino",-1,-3,-3,1,0,0,-2,0,0,0,2,0,0,0,-2
+"343","55 años o más","Universitario COMPLETO","Hombre","González Catán",-3,-3,-2,-3,-1,-1,1,0,-2,-2,-2,-2,-2,0,1
+"344","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","San Justo",-2,-2,-3,-3,-3,-2,-3,0,0,-1,-3,0,0,-2,-3
+"345","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","Isidro Casanova",1,-2,-1,-1,1,2,1,0,2,1,1,1,1,1,-1
+"346","Entre 25 y 34 años","Universitario INCOMPLETO","Mujer","Rafael Castillo",-1,1,-1,-3,-3,0,2,0,0,-1,-2,-1,-1,0,1
+"347","Entre 35 y 54 años","Universitario COMPLETO","Hombre","Ramos Mejía",-2,-3,-3,2,3,2,1,0,3,0,3,2,1,0,-1
+"348","Entre 16 y 24 años","Secundaria INCOMPLETA","Hombre","González Catán",-1,1,-3,-3,1,0,3,0,0,0,0,0,0,0,0
+"349","55 años o más","Primaria COMPLETA","Mujer","González Catán",3,3,2,-3,-3,-3,-3,0,0,0,-3,0,-3,-3,3
+"350","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","González Catán",2,1,-1,-2,-1,2,2,0,0,0,2,0,-1,0,1
+"351","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Rafael Castillo",-3,-3,-2,-3,-3,0,-1,0,0,0,-3,0,0,-1,2
+"352","55 años o más","Terciario COMPLETO","Mujer","Ciudad Evita",-2,-3,-2,-3,-3,1,-2,0,0,-2,-3,0,-2,0,-2
+"353","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","Villa Luzuriaga",-1,3,2,-3,-3,0,-3,0,0,1,-3,2,2,2,2
+"354","Entre 16 y 24 años","Terciario INCOMPLETO","Mujer","La Tablada",-1,3,2,-3,-3,0,0,0,0,0,-3,0,0,0,-2
+"355","Entre 16 y 24 años","Terciario INCOMPLETO","Mujer","González Catán",3,3,1,-3,-2,0,0,0,0,0,-2,0,2,0,-2
+"356","Entre 35 y 54 años","Universitario COMPLETO","Mujer","Villa Luzuriaga",-2,-3,1,3,3,2,1,0,0,0,2,0,1,0,-1
+"357","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Lomas del Mirador",-2,-3,-3,-2,1,1,1,0,0,0,1,0,0,0,-2
+"358","Entre 16 y 24 años","Secundaria INCOMPLETA","Mujer","González Catán",1,1,2,-2,1,0,-2,0,0,0,-3,0,0,0,1
+"359","55 años o más","Terciario COMPLETO","Hombre","San Justo",2,3,1,-3,-3,-2,-3,0,-2,0,-3,-2,-2,0,1
+"360","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Villa Luzuriaga",1,1,-3,-3,-3,0,-3,0,-2,0,-3,0,-3,0,-3
+"361","Entre 35 y 54 años","Primaria COMPLETA","Mujer","Isidro Casanova",-2,-2,-2,-3,0,1,0,0,0,0,1,0,0,0,0
+"362","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Villa Madero",1,1,-1,-3,-3,0,-3,0,0,0,-3,0,0,0,0
+"363","55 años o más","Terciario COMPLETO","Hombre","Villa Luzuriaga",-2,-3,-2,-1,2,1,1,0,-2,2,2,2,0,0,-3
+"364","Entre 25 y 34 años","Terciario INCOMPLETO","Mujer","Laferrere",1,-2,1,-2,-2,0,-1,0,0,0,-1,0,0,0,1
+"365","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Isidro Casanova",-3,-3,-3,2,3,3,3,0,3,2,-2,3,-3,-3,-3
+"366","Entre 25 y 34 años","Universitario INCOMPLETO","Hombre","González Catán",-3,-3,-1,-3,-1,2,-1,0,0,0,-2,0,0,0,-2
+"367","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Laferrere",-3,-3,-3,2,2,2,3,0,0,0,3,2,2,0,-3
+"368","Entre 16 y 24 años","Secundaria COMPLETA","Hombre","Villa Luzuriaga",-1,-1,1,-1,0,0,1,0,0,0,0,0,0,0,-2
+"369","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Laferrere",1,-2,1,-2,2,2,-1,0,0,0,2,1,2,0,-2
+"370","Entre 16 y 24 años","Secundaria COMPLETA","Hombre","Villa Luzuriaga",-2,-3,-1,1,2,-1,3,0,0,-1,-3,-3,0,-2,-3
+"371","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Ciudad Evita",2,1,1,-3,-2,-2,-3,0,0,0,-3,0,0,0,1
+"372","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","San Justo",-3,-3,-3,1,3,1,1,0,0,1,-2,-2,2,0,-1
+"373","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","La Tablada",1,1,-1,-2,2,0,-3,0,0,0,-3,0,0,0,1
+"374","Entre 35 y 54 años","Primaria COMPLETA","Mujer","Laferrere",-2,-3,-3,-2,3,3,-1,0,1,0,-2,0,-1,0,-3
+"375","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Laferrere",1,-3,-3,2,1,0,1,0,0,0,-3,0,-1,-1,-1
+"376","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Villa Luzuriaga",2,3,2,-3,-3,-3,-3,0,-2,0,-3,-2,1,0,2
+"377","Entre 35 y 54 años","Terciario COMPLETO","Mujer","La Tablada",1,-3,-3,3,3,-1,2,0,-2,-2,1,0,-2,-2,-2
+"378","Entre 35 y 54 años","Primaria INCOMPLETA","Mujer","Ciudad Evita",1,3,-1,-2,-2,0,2,0,0,0,2,0,0,0,0
+"379","Entre 35 y 54 años","Terciario COMPLETO","Mujer","González Catán",2,1,-3,-3,-3,1,0,0,0,0,0,0,0,0,-3
+"380","Entre 35 y 54 años","Universitario COMPLETO","Mujer","Ciudad Evita",-3,-3,-3,-1,2,2,-1,0,2,0,-2,2,0,0,-3
+"381","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Virrey del Pino",3,3,-3,-3,-3,0,-3,0,0,-3,-3,0,0,0,2
+"382","Entre 25 y 34 años","Terciario COMPLETO","Mujer","Laferrere",-2,-3,-3,-2,-1,0,-2,0,0,0,-3,0,-1,0,-1
+"383","Entre 35 y 54 años","Universitario COMPLETO","Mujer","Ramos Mejía",-3,-2,-2,-1,1,1,-1,0,0,0,-1,0,0,0,-1
+"384","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Virrey del Pino",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"385","Entre 35 y 54 años","Universitario INCOMPLETO","Hombre","Isidro Casanova",-3,-3,-3,-1,1,-2,1,0,2,2,3,3,0,0,-3
+"386","55 años o más","Terciario COMPLETO","Mujer","Lomas del Mirador",-3,-3,-2,-1,2,2,-1,0,0,0,1,0,-1,0,-2
+"387","Entre 35 y 54 años","Terciario COMPLETO","Mujer","González Catán",-3,-1,-3,-3,-2,-2,-2,0,-3,2,-3,0,3,-2,-1
+"388","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Laferrere",1,1,-1,-3,-1,0,1,0,0,0,-3,0,0,0,-1
+"389","55 años o más","Secundaria COMPLETA","Mujer","Ramos Mejía",-3,-3,-3,1,3,-1,1,0,0,0,1,0,0,0,-3
+"390","55 años o más","Terciario INCOMPLETO","Hombre","Aldo Bonzi",-3,-3,-3,-3,2,1,-3,0,1,-2,1,1,-2,0,-3
+"391","Entre 35 y 54 años","Posgrado y más","Mujer","Ciudad Evita",1,-2,-2,-3,-2,-1,-1,0,-1,0,-2,0,0,0,1
+"392","Entre 35 y 54 años","Primaria COMPLETA","Mujer","Laferrere",-1,-2,-3,-1,2,0,0,0,0,0,1,0,0,0,-1
+"393","55 años o más","Secundaria INCOMPLETA","Mujer","San Justo",2,1,-3,-3,1,1,-2,0,0,0,-3,0,1,0,1
+"394","55 años o más","Universitario COMPLETO","Hombre","Villa Luzuriaga",-3,-3,-3,-3,3,3,2,0,1,0,3,-2,0,0,-2
+"395","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Laferrere",-3,-3,-2,2,2,-2,1,0,0,0,3,0,0,0,-2
+"396","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Laferrere",2,2,1,-3,1,0,-3,0,0,0,-3,0,0,0,-2
+"397","55 años o más","Terciario COMPLETO","Hombre","Ramos Mejía",-3,-3,-3,1,2,1,-2,0,3,2,1,2,0,0,-3
+"398","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Ciudad Evita",-3,-3,-3,1,3,2,-2,0,2,2,1,0,1,0,-3
+"399","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Laferrere",3,2,1,-3,-3,-1,-3,0,0,1,-3,-2,-2,-2,-1
+"400","55 años o más","Primaria COMPLETA","Mujer","Laferrere",-1,-2,2,-3,-3,-3,-3,0,0,0,-3,0,0,0,0
+"401","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Laferrere",2,2,1,-3,0,0,-1,0,0,0,0,0,0,0,1
+"402","Entre 35 y 54 años","Primaria COMPLETA","Hombre","Rafael Castillo",2,3,2,-3,-3,-2,-3,0,-2,0,-3,1,-2,1,2
+"403","Entre 25 y 34 años","Terciario COMPLETO","Mujer","Isidro Casanova",-3,-3,-3,1,3,0,0,0,0,0,0,0,0,0,-3
+"404","Entre 35 y 54 años","Universitario INCOMPLETO","Hombre","Ramos Mejía",-1,2,-2,-2,2,2,1,0,1,0,-3,0,0,0,-2
+"405","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Laferrere",3,3,1,-3,1,1,2,0,2,2,-1,2,0,0,1
+"406","Entre 35 y 54 años","Universitario INCOMPLETO","Hombre","Ramos Mejía",1,2,1,-3,-3,-3,-3,0,0,0,-3,-3,0,0,-1
+"407","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","Villa Madero",-3,-3,-3,-2,3,2,1,0,-2,0,-1,1,-1,-1,-3
+"408","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Villa Luzuriaga",-1,-2,-3,-1,1,2,-3,0,0,-1,-1,0,0,0,-1
+"409","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","San Justo",-3,-3,-3,1,-3,2,3,0,-1,2,1,2,0,0,-3
+"410","Entre 35 y 54 años","Primaria COMPLETA","Hombre","Laferrere",-1,-3,-3,-3,-1,0,0,0,0,0,-3,0,0,0,-3
+"411","55 años o más","Universitario COMPLETO","Mujer","Villa Luzuriaga",-2,-3,-2,1,1,3,1,0,-2,0,2,0,0,-2,-2
+"412","55 años o más","Universitario INCOMPLETO","Hombre","Ciudad Evita",2,3,1,-3,-3,2,-3,0,0,-3,-3,0,-2,0,3
+"413","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Rafael Castillo",1,3,-1,-3,-2,-2,-2,0,1,-3,-3,-1,0,0,1
+"414","Entre 25 y 34 años","Universitario COMPLETO","Hombre","Ramos Mejía",1,3,1,-3,-3,-3,-3,0,-3,-3,-3,-3,-1,0,3
+"415","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","González Catán",-3,-3,-3,2,2,2,2,0,-1,-2,1,-1,1,0,-2
+"416","Entre 25 y 34 años","Universitario INCOMPLETO","Hombre","Ramos Mejía",1,2,1,-2,-2,-2,-3,0,0,0,-3,0,0,0,1
+"417","Entre 25 y 34 años","Terciario COMPLETO","Hombre","González Catán",1,3,-1,-3,-3,-3,-3,0,-3,-3,-3,-3,0,0,1
+"418","55 años o más","Terciario COMPLETO","Mujer","Ramos Mejía",-1,1,-1,-3,-3,-3,-3,0,-3,-3,-3,-3,0,0,1
+"419","55 años o más","Secundaria INCOMPLETA","Mujer","La Tablada",1,2,1,1,1,1,1,0,0,0,2,0,2,0,1
+"420","Entre 25 y 34 años","Universitario INCOMPLETO","Mujer","Lomas del Mirador",-2,3,-3,-3,-3,-3,-3,0,0,0,0,0,0,0,-2
+"421","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Virrey del Pino",-3,-3,-3,0,-3,0,2,0,0,0,0,0,0,0,0
+"422","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Isidro Casanova",1,-1,-1,-1,1,0,0,0,0,0,1,-1,0,0,-1
+"423","Entre 35 y 54 años","Posgrado y más","Hombre","Isidro Casanova",1,2,-1,-3,-3,-1,-3,0,-1,-3,-3,-3,-2,0,1
+"424","Entre 35 y 54 años","Universitario INCOMPLETO","Hombre","Laferrere",-3,-3,-3,1,3,0,3,0,0,0,1,-3,1,0,-1
+"425","Entre 25 y 34 años","Secundaria INCOMPLETA","Mujer","La Tablada",-1,-3,-1,-1,1,0,-1,0,0,1,-1,-1,1,0,1
+"426","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Isidro Casanova",1,1,1,1,1,1,0,0,0,0,-2,0,1,0,1
+"427","Entre 25 y 34 años","Universitario INCOMPLETO","Hombre","Isidro Casanova",-3,-3,-3,-3,-3,-2,-2,0,-2,0,-3,0,0,0,-2
+"428","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Villa Madero",1,2,-3,-3,-3,-2,-3,0,0,-2,-3,0,-1,0,-1
+"429","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","Villa Luzuriaga",2,2,1,-3,-2,0,-3,0,0,0,-3,1,0,0,-2
+"430","Entre 35 y 54 años","Universitario COMPLETO","Mujer","Lomas del Mirador",2,-2,-2,-3,2,0,0,0,0,-2,-2,0,1,0,1
+"431","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Villa Madero",-3,-3,-2,-2,2,2,-3,0,0,0,-3,-2,2,0,-3
+"432","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Lomas del Mirador",-1,1,1,-1,-1,-1,0,0,0,0,-2,1,0,0,-3
+"433","Entre 35 y 54 años","Primaria COMPLETA","Mujer","Laferrere",3,3,1,-3,1,1,0,0,3,1,2,1,2,0,2
+"434","55 años o más","Secundaria COMPLETA","Mujer","Lomas del Mirador",-3,-3,-3,2,-3,-3,3,0,0,0,3,0,0,-2,-3
+"435","55 años o más","Terciario COMPLETO","Hombre","San Justo",-2,-3,-3,1,3,3,-2,0,1,2,-2,1,-1,-2,-2
+"436","55 años o más","Terciario COMPLETO","Mujer","Ciudad Evita",-3,-3,-3,3,1,1,-3,0,3,3,3,3,1,0,-3
+"437","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","San Justo",1,3,1,-3,-3,-3,-3,0,0,0,-3,-3,0,-3,1
+"438","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","Ramos Mejía",-1,-2,-2,-2,1,2,-2,0,-2,0,-2,1,0,0,-1
+"439","55 años o más","Secundaria INCOMPLETA","Mujer","20 de Junio",-2,3,2,-3,2,0,-1,0,0,0,-3,0,0,0,2
+"440","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","Ciudad Evita",1,2,1,-3,1,0,-1,0,0,0,-2,0,0,0,1
+"441","55 años o más","Secundaria COMPLETA","Hombre","Lomas del Mirador",-3,-3,-3,1,1,3,2,0,2,1,2,2,0,0,-2
+"442","Entre 25 y 34 años","Universitario INCOMPLETO","Mujer","Lomas del Mirador",-1,-3,-3,-1,1,0,-1,0,0,0,-3,0,0,0,-3
+"443","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Lomas del Mirador",-1,-3,-3,-3,-3,-1,-1,0,-1,-2,-1,0,0,0,-1
+"444","Entre 25 y 34 años","Terciario COMPLETO","Mujer","Villa Madero",-3,-3,-3,-3,-1,-3,-3,0,0,-1,-1,0,-1,0,-3
+"445","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Virrey del Pino",-2,1,-3,-3,-3,0,-2,0,0,0,-3,0,1,0,-2
+"446","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Virrey del Pino",1,3,-1,-2,-2,0,1,0,0,0,-2,0,0,0,1
+"447","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Rafael Castillo",1,3,-1,-2,1,-1,-1,0,0,0,-2,-1,0,0,-2
+"448","Entre 35 y 54 años","Universitario INCOMPLETO","Hombre","Lomas del Mirador",-3,-3,-3,2,3,-1,-2,0,2,2,2,3,-2,0,-3
+"449","Entre 35 y 54 años","Terciario COMPLETO","Mujer","San Justo",-2,-3,-3,-2,-1,2,-2,0,-1,-2,-1,1,1,0,-2
+"450","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Villa Luzuriaga",1,-2,-1,-2,-1,0,-1,0,-1,0,-2,0,0,0,1
+"451","Entre 25 y 34 años","Terciario COMPLETO","Mujer","González Catán",3,3,3,-1,0,0,0,0,0,0,-1,2,2,0,2
+"452","55 años o más","Terciario COMPLETO","Mujer","Aldo Bonzi",-2,-3,-3,-2,3,2,-3,0,0,0,-3,0,0,0,-3
+"453","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Isidro Casanova",0,-3,-3,0,0,0,0,0,0,0,0,0,0,0,-3
+"454","Entre 35 y 54 años","Terciario COMPLETO","Mujer","San Justo",-2,-1,2,2,2,3,3,0,0,1,3,2,1,-1,-2
+"455","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Villa Luzuriaga",2,-1,1,-2,-2,0,-2,0,0,-2,-2,0,0,0,-2
+"456","Entre 25 y 34 años","Universitario COMPLETO","Mujer","González Catán",1,2,-3,-3,-3,-1,-3,0,-3,1,-3,1,-2,-2,-3
+"457","55 años o más","Secundaria INCOMPLETA","Hombre","San Justo",2,2,1,-3,-3,1,-3,0,-2,0,-3,-3,-1,0,1
+"458","55 años o más","Universitario INCOMPLETO","Mujer","La Tablada",-3,-3,-3,-2,1,0,0,0,-2,0,0,0,-2,-2,-3
+"459","Entre 25 y 34 años","Terciario INCOMPLETO","Mujer","González Catán",3,3,-3,-3,-2,-1,-3,0,0,-1,-3,0,-1,0,-3
+"460","55 años o más","Secundaria COMPLETA","Mujer","Villa Luzuriaga",1,3,1,-3,-2,1,-3,0,0,0,-3,0,0,0,1
+"461","55 años o más","Secundaria INCOMPLETA","Hombre","Laferrere",-2,-2,-1,2,2,1,2,0,2,3,2,3,1,0,1
+"462","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Aldo Bonzi",-3,-3,-2,-1,1,3,2,0,0,0,3,0,2,0,-1
+"463","Entre 25 y 34 años","Universitario INCOMPLETO","Hombre","Villa Luzuriaga",1,-1,-2,-1,1,0,-3,0,0,0,-3,0,0,0,-1
+"464","Entre 16 y 24 años","Secundaria COMPLETA","Hombre","González Catán",-3,-3,-2,1,-1,-1,2,0,0,0,-3,-3,0,0,-1
+"465","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","Rafael Castillo",1,3,-3,-3,-3,-3,-3,0,0,0,-3,-1,0,0,-2
+"466","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Rafael Castillo",3,3,2,-2,-2,0,-3,0,0,0,2,0,0,0,2
+"467","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Lomas del Mirador",1,3,1,-3,-2,-2,-3,0,-3,-2,-3,-3,-2,0,2
+"468","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","Laferrere",3,2,-1,-3,-2,1,-3,0,0,0,-3,1,1,0,1
+"469","Entre 25 y 34 años","Primaria INCOMPLETA","Hombre","La Tablada",2,2,2,-2,0,0,-3,0,0,0,-1,0,0,0,1
+"470","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Virrey del Pino",1,1,1,-3,-1,0,-3,0,0,0,-3,0,-1,0,2
+"471","55 años o más","Universitario INCOMPLETO","Hombre","Ciudad Evita",-1,3,1,-3,-3,-2,-3,0,-1,-3,-3,-2,-2,0,-2
+"472","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Villa Luzuriaga",2,1,-1,-3,-2,0,2,0,0,0,-2,0,0,0,1
+"473","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","San Justo",1,3,1,-3,-3,-1,-3,0,-3,0,-3,0,-3,-2,2
+"474","Entre 25 y 34 años","Terciario INCOMPLETO","Hombre","Rafael Castillo",0,1,-1,1,1,-1,-1,0,0,0,2,2,0,0,1
+"475","55 años o más","Terciario INCOMPLETO","Hombre","Villa Luzuriaga",-3,-3,-3,3,1,-1,1,0,3,0,1,3,0,0,-3
+"476","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Ciudad Evita",-1,3,-2,-3,-2,-3,-3,0,0,0,-3,0,0,0,1
+"477","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Rafael Castillo",-1,-1,1,2,2,0,2,0,0,2,-2,0,1,0,-1
+"478","Entre 35 y 54 años","Primaria COMPLETA","Hombre","González Catán",3,3,3,-2,-1,1,1,0,0,0,-3,0,1,0,2
+"479","55 años o más","Secundaria COMPLETA","Hombre","La Tablada",-1,-3,-2,1,2,2,1,0,1,-1,2,2,0,0,-2
+"480","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Aldo Bonzi",-1,1,-3,-3,-3,0,-2,0,0,-1,0,-1,-3,-3,-1
+"481","55 años o más","Secundaria INCOMPLETA","Mujer","Isidro Casanova",1,-3,-2,-3,-1,1,-3,0,0,0,-3,-2,1,0,-2
+"482","Entre 25 y 34 años","Universitario COMPLETO","Hombre","Ramos Mejía",-2,-3,-3,1,2,-1,-1,0,-1,0,2,0,-1,-2,-3
+"483","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Isidro Casanova",-1,0,-3,-1,-1,0,-1,0,0,-1,1,-1,0,0,0
+"484","Entre 16 y 24 años","Terciario INCOMPLETO","Mujer","Villa Celina",1,-1,1,-3,-1,2,1,0,0,0,-3,0,0,0,1
+"485","Entre 35 y 54 años","Universitario COMPLETO","Hombre","Ciudad Evita",-3,-3,-3,-2,-2,-2,2,0,-2,0,-2,1,0,0,-3
+"486","55 años o más","Terciario COMPLETO","Mujer","Ciudad Evita",-2,-3,-3,1,1,1,-1,0,1,1,1,2,1,0,-2
+"487","55 años o más","Posgrado y más","Hombre","Ciudad Evita",-1,3,2,-3,-3,-2,-3,0,-3,-2,-3,-2,-1,0,2
+"488","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Ramos Mejía",2,1,0,-1,-1,0,1,0,0,0,-3,-2,0,0,1
+"489","Entre 25 y 34 años","Terciario INCOMPLETO","Mujer","Villa Madero",1,3,1,-3,-2,0,-3,0,0,0,-2,0,0,0,2
+"490","Entre 35 y 54 años","Universitario COMPLETO","Mujer","San Justo",-3,-3,-3,2,2,2,1,0,0,0,-1,-1,0,-3,-3
+"491","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Isidro Casanova",2,1,-1,-3,2,0,-1,0,0,0,-3,0,1,0,2
+"492","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Villa Luzuriaga",-3,-1,-3,-3,-1,-1,-2,0,0,0,-3,0,0,0,0
+"493","Entre 35 y 54 años","Terciario INCOMPLETO","Hombre","San Justo",-3,-1,-1,1,-1,-1,2,0,2,2,1,2,1,0,-2
+"494","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Ramos Mejía",1,-2,-3,-3,-3,-2,-2,0,0,1,-1,2,0,2,1
+"495","Entre 16 y 24 años","Terciario INCOMPLETO","Mujer","Laferrere",-3,-3,-3,-3,-3,-3,0,0,0,0,0,0,0,0,-3
+"496","55 años o más","Secundaria COMPLETA","Mujer","San Justo",-3,-3,-2,1,2,2,1,0,1,3,3,2,0,1,-3
+"497","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Isidro Casanova",-1,-1,-2,-3,1,-2,-1,0,0,0,-3,0,-1,0,1
+"498","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Virrey del Pino",1,1,-2,-3,-3,0,0,0,0,0,-2,0,-1,-1,-1
+"499","Entre 16 y 24 años","Terciario INCOMPLETO","Mujer","Isidro Casanova",-2,1,-3,-3,1,-1,1,0,0,0,-3,-3,-3,0,1
+"500","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Villa Celina",-3,-3,-3,2,2,0,1,0,1,0,-1,0,0,0,-2
+"501","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Laferrere",-3,-3,-3,-2,-3,0,-2,0,0,0,-3,-1,-1,0,-1
+"502","Entre 25 y 34 años","Universitario COMPLETO","Mujer","Virrey del Pino",-1,-2,-3,-2,1,0,1,0,0,0,-2,0,-2,0,-1
+"503","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","González Catán",-1,-3,-3,3,3,2,2,0,-1,-1,1,0,-1,0,-2
+"504","55 años o más","Universitario COMPLETO","Hombre","Ramos Mejía",-3,-3,-3,-1,1,0,1,0,2,2,2,2,0,0,-3
+"505","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","Rafael Castillo",2,2,-1,-3,-3,-2,-3,0,-3,0,-3,0,-2,0,1
+"506","Entre 16 y 24 años","Secundaria COMPLETA","Hombre","Laferrere",-3,-3,-3,1,2,1,1,0,0,0,-1,0,1,0,-2
+"507","Entre 25 y 34 años","Universitario INCOMPLETO","Mujer","San Justo",-2,-3,-3,-1,1,0,0,0,0,0,-3,0,0,0,-1
+"508","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Isidro Casanova",-3,-3,-3,1,3,3,1,0,2,-2,-2,1,-2,0,-3
+"509","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Isidro Casanova",-3,-3,-3,-3,-3,-3,-3,0,-3,-3,-3,0,-3,0,-3
+"510","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Lomas del Mirador",-3,-3,-3,-2,-2,1,-1,0,0,0,-3,0,0,0,-3
+"511","Entre 16 y 24 años","Terciario COMPLETO","Mujer","Rafael Castillo",1,1,-3,-2,1,0,-1,0,0,0,-3,0,0,0,2
+"512","55 años o más","Secundaria INCOMPLETA","Mujer","González Catán",3,3,1,-3,-3,-2,-3,0,-3,-3,-3,-3,0,0,3
+"513","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","González Catán",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"514","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Isidro Casanova",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"515","55 años o más","Terciario COMPLETO","Hombre","Virrey del Pino",1,3,-1,-3,-2,-1,-3,0,-3,-2,-3,-2,-2,0,2
+"516","Entre 25 y 34 años","Universitario COMPLETO","Mujer","Lomas del Mirador",1,3,-3,-3,-3,0,-3,0,-3,0,-3,0,0,0,1
+"517","55 años o más","Terciario INCOMPLETO","Hombre","González Catán",-1,2,-2,-2,-1,0,-2,0,0,0,-2,-2,0,0,2
+"518","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Lomas del Mirador",-3,-3,-1,-2,1,0,-1,0,0,1,2,2,1,-1,-2
+"519","Entre 16 y 24 años","Terciario COMPLETO","Mujer","Virrey del Pino",2,2,-3,-2,1,0,1,0,0,0,-3,0,0,0,1
+"520","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Villa Celina",1,-2,-3,-3,1,1,3,0,0,0,-2,0,0,0,1
+"521","Entre 25 y 34 años","Universitario INCOMPLETO","Mujer","Villa Madero",-1,3,-3,-3,-3,-3,-3,0,0,-3,-3,0,0,0,-1
+"522","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Isidro Casanova",-3,-3,-1,-1,1,0,1,0,0,0,2,-1,0,0,-3
+"523","55 años o más","Secundaria COMPLETA","Mujer","Isidro Casanova",2,2,2,-3,-3,-2,-3,0,0,0,-3,0,-1,0,2
+"524","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Laferrere",1,2,-2,-2,-2,1,-2,0,-2,-1,-2,1,-1,-1,-1
+"525","Entre 35 y 54 años","Primaria COMPLETA","Mujer","González Catán",1,1,-1,-2,1,0,0,0,0,0,-2,0,0,0,1
+"526","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Laferrere",3,3,1,-3,-3,-3,-3,0,0,-3,-3,0,-3,0,1
+"527","55 años o más","Secundaria COMPLETA","Hombre","Ramos Mejía",-3,-3,-3,-1,2,2,-1,0,1,1,1,1,0,0,-3
+"528","Entre 25 y 34 años","Universitario INCOMPLETO","Mujer","Ramos Mejía",-3,-3,-3,1,1,1,-1,0,-1,0,-1,0,-2,-2,-3
+"529","Entre 25 y 34 años","Terciario INCOMPLETO","Hombre","Isidro Casanova",-3,-3,-3,-2,1,2,1,0,-3,-2,-1,0,0,0,-3
+"530","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Villa Celina",1,-1,-1,-1,1,2,-1,0,1,1,3,0,0,0,2
+"531","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Ramos Mejía",-3,-3,-3,1,1,-1,1,0,1,2,2,3,2,1,-3
+"532","55 años o más","Secundaria INCOMPLETA","Hombre","Laferrere",-3,-3,-3,-1,2,1,1,0,2,1,-1,0,-2,-1,-1
+"533","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Ciudad Evita",-1,-3,-3,-1,1,1,1,0,-2,-2,-2,1,-3,0,-3
+"534","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","González Catán",-1,2,-2,-3,1,2,-1,0,0,0,-3,0,0,0,2
+"535","Entre 16 y 24 años","Terciario INCOMPLETO","Mujer","Ramos Mejía",1,1,-1,-1,-2,0,-2,0,0,0,-3,0,1,0,-1
+"536","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Laferrere",-2,-2,-2,-1,1,0,1,0,0,0,1,1,-1,0,-3
+"537","Entre 25 y 34 años","Terciario INCOMPLETO","Mujer","Laferrere",1,1,1,-2,2,-1,-3,0,0,-1,-2,0,1,0,-1
+"538","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","González Catán",-2,-2,-2,-2,-2,0,-1,0,0,0,-2,0,-2,0,-1
+"539","Entre 25 y 34 años","Terciario COMPLETO","Mujer","Laferrere",1,1,-1,-2,1,0,-3,0,-1,0,-2,0,0,0,1
+"540","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Laferrere",2,-3,-3,-3,1,1,-2,0,0,0,-3,1,0,0,-2
+"541","55 años o más","Secundaria INCOMPLETA","Hombre","Lomas del Mirador",-3,-3,-3,-1,1,2,1,0,0,0,1,3,0,0,-3
+"542","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","La Tablada",-1,-1,-3,-3,-1,-1,-3,0,-1,0,-3,0,-3,0,-1
+"543","55 años o más","Terciario COMPLETO","Hombre","Villa Celina",-3,-3,-3,-3,0,0,2,0,2,2,3,3,1,0,-3
+"544","Entre 35 y 54 años","Universitario COMPLETO","Hombre","Ramos Mejía",-2,-3,-3,3,3,-1,-1,0,3,1,1,3,0,0,-1
+"545","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","González Catán",3,3,3,-3,-3,0,-2,0,0,0,-2,0,0,0,2
+"546","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Rafael Castillo",2,2,2,1,2,1,2,0,1,1,-3,1,1,1,1
+"547","Entre 35 y 54 años","Universitario COMPLETO","Mujer","González Catán",1,2,1,-1,-1,0,-3,0,0,0,-3,0,0,0,1
+"548","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Rafael Castillo",1,2,-2,-2,-2,0,0,0,-1,0,-2,0,-2,0,1
+"549","55 años o más","Secundaria COMPLETA","Mujer","Lomas del Mirador",0,3,-3,0,3,0,1,0,0,-1,-1,-1,-2,1,-1
+"550","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Laferrere",2,3,1,-2,-2,-1,-3,0,-3,1,-3,1,-2,-1,2
+"551","Entre 35 y 54 años","Primaria INCOMPLETA","Mujer","Villa Madero",3,3,2,-3,3,0,3,0,0,0,-3,0,2,0,2
+"552","Entre 35 y 54 años","Universitario COMPLETO","Mujer","Isidro Casanova",-3,-2,-3,-3,-3,0,-3,0,0,0,-3,0,0,0,-3
+"553","55 años o más","Terciario COMPLETO","Hombre","Laferrere",2,3,2,-3,-3,-2,-3,0,0,-3,-3,0,-3,-3,2
+"554","55 años o más","Secundaria INCOMPLETA","Mujer","González Catán",-2,-2,1,2,3,0,0,0,0,0,-1,0,1,0,-1
+"555","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Laferrere",-2,-3,-3,1,2,0,3,0,0,0,-1,0,0,0,1
+"556","Entre 25 y 34 años","Terciario COMPLETO","Mujer","San Justo",-3,-3,-3,1,-1,-3,-1,0,-3,-1,-1,-1,0,-3,-3
+"557","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Ciudad Evita",-3,-3,-2,-2,1,-1,1,0,0,0,1,1,0,0,-1
+"558","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Tapiales",2,1,-1,-1,-2,0,-1,0,0,0,-3,0,0,0,1
+"559","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Virrey del Pino",1,2,-1,-2,-1,0,0,0,0,0,-1,0,0,0,1
+"560","55 años o más","Secundaria COMPLETA","Hombre","Ramos Mejía",1,2,1,-3,-2,1,-3,0,-3,-2,-3,-3,-2,0,1
+"561","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Virrey del Pino",-1,-1,-1,-1,-1,0,0,0,0,0,3,0,0,0,-1
+"562","Entre 35 y 54 años","Universitario INCOMPLETO","Mujer","Rafael Castillo",1,1,-1,-2,-2,0,2,0,0,-1,-1,0,0,0,-2
+"563","55 años o más","Secundaria INCOMPLETA","Mujer","Ciudad Evita",1,3,1,-2,-2,-2,-2,0,0,0,-3,0,0,0,3
+"564","Entre 25 y 34 años","Universitario COMPLETO","Hombre","San Justo",-3,-1,-3,-3,-2,1,-1,0,-1,-3,-3,-3,1,0,-3
+"565","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","González Catán",2,3,1,-3,-3,-3,-3,0,-3,0,-3,-2,-2,0,3
+"566","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","Virrey del Pino",2,2,2,-3,-2,1,-3,0,0,0,-2,0,-1,0,-2
+"567","Entre 35 y 54 años","Secundaria COMPLETA","Hombre","González Catán",-1,2,-1,-3,-3,0,-3,0,0,-3,-3,0,-3,0,-3
+"568","Entre 25 y 34 años","Universitario COMPLETO","Mujer","Ramos Mejía",-2,0,-3,-1,1,0,-3,0,0,0,-3,0,0,0,0
+"569","55 años o más","Universitario INCOMPLETO","Hombre","Isidro Casanova",2,2,1,-3,-3,-2,-3,0,-1,0,-3,0,1,0,1
+"570","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Isidro Casanova",3,-1,-1,-3,-3,0,-3,0,1,0,-3,-1,-1,0,2
+"571","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Isidro Casanova",-1,-2,-2,-2,-1,-1,-1,0,-1,0,-3,0,0,0,-1
+"572","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Ciudad Evita",-1,1,-3,-3,-3,0,-1,0,0,0,-3,0,-1,0,1
+"573","Entre 35 y 54 años","Terciario COMPLETO","Mujer","Rafael Castillo",2,3,2,-3,-3,-2,-3,0,0,-3,-3,0,-1,0,1
+"574","Entre 35 y 54 años","Universitario COMPLETO","Mujer","Ramos Mejía",2,1,1,-3,-3,-1,-3,0,0,0,-3,0,0,0,-1
+"575","Entre 35 y 54 años","Universitario COMPLETO","Mujer","Ramos Mejía",-3,-3,-3,1,2,2,1,0,0,0,1,0,0,0,-1
+"576","55 años o más","Terciario COMPLETO","Mujer","Ramos Mejía",-2,-2,-2,1,3,2,1,0,2,0,2,2,0,0,-3
+"577","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Ramos Mejía",1,3,2,-2,-3,-3,-3,0,0,-1,-3,0,0,0,-1
+"578","Entre 16 y 24 años","Terciario INCOMPLETO","Mujer","Laferrere",3,1,0,2,2,0,0,0,0,1,0,1,0,0,1
+"579","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Isidro Casanova",-1,3,-1,-3,-3,-1,-3,0,0,-1,-3,-1,-3,-1,-1
+"580","Entre 25 y 34 años","Secundaria COMPLETA","Mujer","Laferrere",1,1,-1,-3,-3,0,2,0,0,0,-3,0,0,0,1
+"581","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Ciudad Evita",-2,-3,-3,-3,-2,-1,-3,0,0,0,-3,-1,-1,0,-3
+"582","Entre 16 y 24 años","Terciario INCOMPLETO","Mujer","San Justo",-1,-1,-2,-2,-3,0,-3,0,0,0,-3,0,0,0,-2
+"583","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","González Catán",1,1,-3,-2,-1,-1,-2,0,0,0,-2,0,0,0,1
+"584","Entre 25 y 34 años","Terciario COMPLETO","Mujer","San Justo",1,3,-1,-2,1,2,2,0,-2,-2,-3,0,-2,0,1
+"585","Entre 35 y 54 años","Terciario COMPLETO","Mujer","San Justo",-3,-3,-2,2,1,1,-3,0,0,0,-3,0,0,0,-2
+"586","Entre 35 y 54 años","Primaria COMPLETA","Mujer","Rafael Castillo",-3,-3,-3,-1,3,0,3,0,0,0,2,0,0,0,-1
+"587","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","La Tablada",-3,3,-3,-3,-3,-3,-2,0,0,0,-3,0,2,0,0
+"588","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Villa Celina",-3,-3,-3,-2,0,0,0,0,0,-2,1,0,-2,-1,-3
+"589","Entre 16 y 24 años","Secundaria COMPLETA","Hombre","González Catán",-1,-2,-1,-2,-1,-3,-1,0,0,0,-3,0,0,0,-1
+"590","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Isidro Casanova",-2,-3,-3,1,3,-2,3,0,0,1,2,0,-3,0,-2
+"591","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Laferrere",1,2,-2,-3,-3,0,1,0,0,0,-3,1,1,0,1
+"592","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","González Catán",-1,3,-3,-3,-3,-3,1,0,0,0,0,0,0,0,1
+"593","Entre 25 y 34 años","Universitario COMPLETO","Hombre","Ciudad Evita",2,3,-2,-3,3,0,1,0,0,0,-2,1,1,0,1
+"594","Entre 25 y 34 años","Terciario INCOMPLETO","Mujer","San Justo",1,3,-1,-3,-3,-3,-3,0,0,0,-3,0,0,0,1
+"595","Entre 25 y 34 años","Secundaria INCOMPLETA","Mujer","Ciudad Evita",3,3,1,-3,-3,1,-2,0,0,0,-3,0,0,0,1
+"596","Entre 25 y 34 años","Secundaria COMPLETA","Hombre","Isidro Casanova",1,1,1,-2,-2,0,-2,0,0,0,-2,2,2,2,3
+"597","Entre 35 y 54 años","Secundaria COMPLETA","Mujer","Laferrere",3,3,3,-3,3,0,-3,0,0,0,-3,0,0,0,3
+"598","Entre 25 y 34 años","Universitario COMPLETO","Hombre","Ciudad Evita",-2,-1,-2,-3,-3,-2,-3,0,-1,-3,-3,0,-3,0,-2
+"599","55 años o más","Terciario INCOMPLETO","Mujer","Villa Madero",3,3,-1,-2,-3,0,-3,0,0,0,-3,0,0,0,1
+"600","Entre 35 y 54 años","Terciario COMPLETO","Mujer","San Justo",-3,-3,-3,-1,3,1,1,0,0,0,-2,0,1,0,2
+"601","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Virrey del Pino",-3,-3,-1,-2,-1,0,-1,0,0,0,-3,-1,2,0,-1
+"602","Entre 35 y 54 años","Secundaria INCOMPLETA","Hombre","Rafael Castillo",-3,-3,-3,-2,1,1,-3,0,1,-1,-1,-2,1,0,-3
+"603","Entre 25 y 34 años","Primaria COMPLETA","Mujer","Isidro Casanova",2,2,2,1,0,0,0,0,0,0,1,0,0,0,2
+"604","Entre 16 y 24 años","Universitario INCOMPLETO","Mujer","Ramos Mejía",1,-2,-2,1,2,1,-2,0,0,0,0,1,0,0,1
+"605","Entre 35 y 54 años","Terciario COMPLETO","Hombre","Villa Madero",-1,1,-2,-3,-2,-1,-2,0,-2,0,-3,-3,0,0,-2
+"606","Entre 16 y 24 años","Secundaria COMPLETA","Mujer","Ramos Mejía",-1,-1,0,-1,-1,0,1,0,0,0,-3,0,0,0,1
+"607","Entre 35 y 54 años","Secundaria INCOMPLETA","Mujer","Laferrere",2,2,-2,-2,-1,0,0,0,0,0,2,0,-2,1,1
+"608","55 años o más","Primaria INCOMPLETA","Mujer","Villa Celina",3,2,-1,-3,1,1,1,0,0,1,-2,0,1,0,2
+"609","Entre 16 y 24 años","Secundaria INCOMPLETA","Mujer","San Justo",1,2,2,-3,0,0,0,0,0,0,-3,0,0,0,-1
+"610","Entre 35 y 54 años","Terciario INCOMPLETO","Mujer","Laferrere",-1,-2,-3,1,1,0,0,0,0,0,-2,0,1,0,-1
