@@ -1,0 +1,611 @@
+id,edad,educacion,sexo,localidad,af,cfk,fe,mm,hrl,fm,jm,lc,tf,afi,vc,fa,ms,fas,ds,cluster
+1,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,González Catán,-3,-3,-3,2,1,3,-3,3,3,3,2,3,2,0,-3,2
+2,55 años o más,Terciario INCOMPLETO,Hombre,Lomas del Mirador,-3,-3,-2,1,1,1,0,3,3,2,1,2,2,0,-1,2
+3,55 años o más,Terciario COMPLETO,Hombre,San Justo,-3,-3,-3,3,3,0,-3,3,3,3,2,3,3,0,-3,2
+4,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,San Justo,-3,-3,-2,2,2,2,3,3,3,3,3,3,-1,2,-2,2
+5,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Virrey del Pino,1,-2,-3,1,1,1,1,3,1,1,-2,0,1,0,1,2
+6,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,Laferrere,-2,-1,-1,-3,1,0,2,2,0,0,1,0,1,0,1,2
+7,Entre 16 y 24 años,Secundaria COMPLETA,Hombre,La Tablada,2,3,3,2,2,-1,3,2,1,1,3,1,2,2,3,2
+8,Entre 25 y 34 años,Terciario INCOMPLETO,Mujer,Laferrere,-3,-3,-3,-1,-2,0,-3,2,3,1,-2,0,2,0,-1,2
+9,Entre 35 y 54 años,Primaria COMPLETA,Mujer,Aldo Bonzi,1,2,-3,-3,-3,1,-3,2,0,0,-3,0,0,0,1,1
+10,55 años o más,Universitario COMPLETO,Hombre,Rafael Castillo,-3,-3,-2,1,2,1,3,2,3,2,3,3,1,1,-3,2
+11,Entre 35 y 54 años,Primaria COMPLETA,Mujer,González Catán,3,1,1,-2,2,1,1,2,-2,-2,-3,2,2,1,1,1
+12,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Isidro Casanova,-3,-3,-3,3,3,3,-2,2,2,-3,3,-3,2,-3,-3,2
+13,55 años o más,Primaria INCOMPLETA,Hombre,Virrey del Pino,-3,-3,-2,2,3,3,2,2,0,3,3,3,2,0,-3,2
+14,Entre 35 y 54 años,Terciario INCOMPLETO,Hombre,Laferrere,-3,-3,-3,1,1,1,3,2,1,0,-1,0,1,0,-2,2
+15,55 años o más,Universitario INCOMPLETO,Hombre,Ramos Mejía,-3,-3,-3,-1,1,2,-1,2,2,2,1,2,0,0,-2,2
+16,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Isidro Casanova,-3,-3,-3,2,2,1,3,2,2,2,2,0,2,-2,-3,2
+17,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Isidro Casanova,2,1,-2,-3,-1,1,-1,2,1,-1,2,1,1,1,1,2
+18,Entre 16 y 24 años,Terciario INCOMPLETO,Mujer,Ramos Mejía,2,-1,-3,1,3,3,-1,2,2,1,-3,-2,-1,-2,-2,2
+19,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Virrey del Pino,1,1,-3,-3,-3,0,-3,2,-1,0,-3,0,1,0,-2,1
+20,Entre 25 y 34 años,Primaria INCOMPLETA,Mujer,Virrey del Pino,3,2,1,1,2,2,3,2,2,2,3,2,2,0,2,2
+21,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Isidro Casanova,-1,-1,-1,1,1,1,1,1,1,1,1,0,1,2,2,2
+22,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Laferrere,3,3,2,-3,2,1,1,1,3,1,2,2,2,2,2,2
+23,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Rafael Castillo,2,2,1,-3,-2,-2,1,1,1,2,-3,2,-2,0,-3,1
+24,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Ciudad Evita,1,1,1,-2,1,1,3,1,1,1,-3,1,1,1,1,2
+25,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Laferrere,0,-3,-2,0,0,0,-1,1,1,0,0,0,-2,0,0,2
+26,55 años o más,Primaria COMPLETA,Hombre,González Catán,2,3,1,1,2,1,-1,1,1,1,-3,-2,-2,1,2,1
+27,55 años o más,Secundaria INCOMPLETA,Mujer,San Justo,2,1,-1,-3,2,1,-2,1,-1,-1,-1,1,-2,0,1,1
+28,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Virrey del Pino,3,3,-1,-3,-3,0,-3,1,0,0,0,0,1,0,1,1
+29,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Isidro Casanova,2,1,-2,-2,2,2,2,1,0,0,-2,0,2,2,2,2
+30,55 años o más,Terciario COMPLETO,Mujer,Ramos Mejía,-3,-3,-3,3,2,-1,-1,1,1,3,-1,-1,-3,-3,-3,2
+31,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Aldo Bonzi,-3,-3,-3,1,1,1,3,1,1,2,3,2,-2,0,-2,2
+32,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Laferrere,2,3,1,-3,-2,-1,-2,1,-1,0,-3,2,2,1,1,1
+33,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Laferrere,1,1,1,-2,1,1,2,1,-1,-1,-1,-1,1,-1,1,1
+34,55 años o más,Universitario COMPLETO,Hombre,Isidro Casanova,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2
+35,Entre 35 y 54 años,Universitario COMPLETO,Mujer,Virrey del Pino,-3,-3,-3,1,2,2,1,1,1,1,1,3,1,-1,-3,2
+36,Entre 25 y 34 años,Secundaria INCOMPLETA,Mujer,Laferrere,3,3,1,0,1,0,0,1,1,1,-2,1,2,1,2,1
+37,Entre 35 y 54 años,Universitario COMPLETO,Hombre,Ramos Mejía,-3,-3,-3,2,3,2,2,1,2,2,2,2,1,-2,-3,2
+38,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,González Catán,-2,-3,-3,1,1,2,2,1,0,0,-3,0,0,0,-1,2
+39,55 años o más,Secundaria INCOMPLETA,Mujer,Ramos Mejía,-3,-3,-3,3,3,3,-2,1,-1,1,1,1,0,-1,-3,2
+40,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Rafael Castillo,1,1,2,1,2,2,1,1,-2,1,1,2,0,2,2,2
+41,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,González Catán,-3,1,1,-3,1,0,2,1,0,0,-3,0,0,0,-1,2
+42,Entre 25 y 34 años,Universitario COMPLETO,Mujer,San Justo,3,3,1,-1,2,1,-3,1,1,0,-2,1,0,1,2,1
+43,Entre 25 y 34 años,Primaria COMPLETA,Mujer,Laferrere,1,-2,-3,-2,1,-1,2,1,0,0,-2,-1,1,1,1,2
+44,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,González Catán,1,1,-2,-3,-2,-2,-1,1,1,0,3,-1,1,-1,-2,1
+45,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Isidro Casanova,1,-1,1,-1,-2,1,-1,1,-1,-1,-2,-1,1,-1,-1,1
+46,Entre 35 y 54 años,Primaria COMPLETA,Hombre,González Catán,1,1,-1,-3,3,-2,-3,1,1,2,-3,-1,2,2,1,1
+47,Entre 25 y 34 años,Universitario INCOMPLETO,Hombre,Isidro Casanova,-3,-3,-3,-2,2,1,3,1,-2,-1,2,0,-3,-1,-3,2
+48,Entre 35 y 54 años,Primaria COMPLETA,Mujer,Isidro Casanova,-2,-3,-3,3,2,3,2,1,2,0,3,0,2,0,-2,2
+49,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,Laferrere,3,3,2,-3,1,1,-3,1,-1,0,-3,-2,1,0,2,1
+50,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Laferrere,-2,-1,-1,-1,1,1,2,1,1,1,2,1,1,1,2,2
+51,Entre 35 y 54 años,Universitario COMPLETO,Mujer,La Tablada,1,-1,-2,-2,1,1,1,1,-2,0,1,0,0,0,-1,2
+52,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Isidro Casanova,1,-1,-1,1,3,3,-1,1,1,1,-1,-1,-1,-1,1,2
+53,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,González Catán,-1,-2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1
+54,Entre 25 y 34 años,Secundaria INCOMPLETA,Mujer,González Catán,3,3,1,-3,-3,-3,-3,-1,-1,1,0,1,1,2,2,1
+55,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Isidro Casanova,1,1,2,-2,-1,2,-1,-1,-1,-2,-1,-1,1,-2,-1,1
+56,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,González Catán,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,0,0,-1,1
+57,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Isidro Casanova,3,3,2,-3,-3,1,-3,-1,2,-2,-1,-2,-3,1,2,1
+58,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Lomas del Mirador,3,3,2,-1,1,1,-1,-1,0,0,-3,0,0,0,1,1
+59,Entre 16 y 24 años,Secundaria COMPLETA,Hombre,González Catán,-2,-1,-1,1,2,-1,-3,-1,1,-1,0,1,0,0,1,2
+60,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,Villa Madero,1,1,1,-1,-2,-1,1,-1,-1,-1,1,-1,1,-1,1,1
+61,Entre 25 y 34 años,Secundaria INCOMPLETA,Mujer,Villa Luzuriaga,3,-3,-3,1,3,-1,2,-1,3,0,3,0,2,0,-3,2
+62,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Rafael Castillo,3,-2,1,-3,-3,0,-3,-1,0,-3,-3,2,2,1,-2,1
+63,Entre 25 y 34 años,Terciario COMPLETO,Mujer,San Justo,-1,-1,1,-1,2,-2,-1,-1,-1,-1,-2,-1,-1,1,-1,1
+64,Entre 16 y 24 años,Terciario INCOMPLETO,Hombre,Laferrere,-3,-3,-3,-2,1,0,1,-1,0,0,2,0,-1,0,-2,2
+65,55 años o más,Secundaria INCOMPLETA,Mujer,Isidro Casanova,-1,-1,-1,-3,1,-1,-3,-1,-1,-2,-2,-1,1,0,2,1
+66,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Laferrere,-1,-2,1,-1,-1,-1,-1,-1,-1,-1,1,-1,-1,-1,1,1
+67,Entre 16 y 24 años,Secundaria INCOMPLETA,Hombre,González Catán,-1,1,0,-3,1,1,3,-1,-1,1,-1,1,1,-1,-1,2
+68,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Virrey del Pino,1,2,-1,-3,-3,-1,1,-1,0,0,-2,-3,-1,0,2,1
+69,Entre 35 y 54 años,Posgrado y más,Mujer,Isidro Casanova,-2,-2,1,1,1,0,-2,-1,-1,-1,-1,-1,-1,-1,-1,2
+70,Entre 35 y 54 años,Terciario COMPLETO,Mujer,San Justo,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1
+71,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,San Justo,-1,-3,-2,-3,-2,-1,-2,-1,-1,-1,-2,-2,-2,-1,-2,1
+72,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Rafael Castillo,1,1,1,-3,-1,-2,-2,-1,-1,-1,-1,-1,-1,1,1,1
+73,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Lomas del Mirador,0,-2,-3,-2,-1,-1,-2,-1,0,0,-3,-1,0,0,-1,1
+74,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,Laferrere,1,1,2,-1,-1,1,-1,-1,1,1,-2,-1,1,1,1,1
+75,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,San Justo,-2,-2,-2,-1,-1,1,-2,-1,-1,-1,-1,-1,-1,-1,-1,1
+76,Entre 16 y 24 años,Secundaria COMPLETA,Hombre,San Justo,-3,-3,-1,1,-2,1,3,-1,-1,1,2,-1,-1,-1,-1,2
+77,Entre 35 y 54 años,Universitario COMPLETO,Mujer,Virrey del Pino,-3,-3,-3,-3,-3,0,2,-1,0,-1,-1,0,-1,0,-1,2
+78,Entre 16 y 24 años,Secundaria COMPLETA,Hombre,Isidro Casanova,-1,-1,-1,-1,-2,-2,2,-1,0,0,-3,-3,0,0,-1,1
+79,Entre 35 y 54 años,Terciario INCOMPLETO,Hombre,Virrey del Pino,-3,-2,-1,-1,1,-1,-1,-1,-2,-3,-3,0,1,-1,-3,1
+80,55 años o más,Secundaria COMPLETA,Mujer,Ramos Mejía,-3,-3,-3,3,3,2,2,-1,-2,-1,-1,1,1,-1,-3,2
+81,Entre 25 y 34 años,Secundaria INCOMPLETA,Mujer,Laferrere,3,2,1,-3,1,2,-2,-1,-3,0,0,2,1,-1,1,1
+82,55 años o más,Secundaria INCOMPLETA,Hombre,Isidro Casanova,3,2,2,-3,-2,1,1,-1,2,-1,-1,1,2,1,2,1
+83,Entre 35 y 54 años,Posgrado y más,Mujer,Ramos Mejía,-3,-3,-3,-2,1,1,2,-1,-2,-2,2,-1,-1,-3,-3,2
+84,Entre 25 y 34 años,Secundaria INCOMPLETA,Mujer,Laferrere,-1,-3,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1
+85,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Virrey del Pino,-3,-3,-3,1,3,2,3,-1,-1,-1,2,-3,-3,-3,-3,2
+86,Entre 25 y 34 años,Universitario INCOMPLETO,Hombre,González Catán,1,1,1,-2,-2,1,2,-1,1,-1,-1,-1,-1,-1,-1,1
+87,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Rafael Castillo,1,1,1,-2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,1
+88,55 años o más,Secundaria INCOMPLETA,Mujer,La Tablada,2,3,2,-3,-3,1,-3,-2,-3,-3,-3,-3,-3,-3,2,1
+89,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Laferrere,3,3,2,-3,-2,-2,-3,-2,-1,-2,-3,0,0,0,2,1
+90,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Laferrere,-3,-3,-2,-2,-2,-2,-2,-2,-2,-2,-1,-1,-2,-2,-2,1
+91,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Lomas del Mirador,-3,-3,-3,-2,3,-2,3,-2,-2,-2,-2,-2,3,3,3,2
+92,Entre 25 y 34 años,Primaria COMPLETA,Hombre,Isidro Casanova,1,-3,-2,2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,1
+93,Entre 25 y 34 años,Universitario COMPLETO,Mujer,Laferrere,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,1
+94,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Rafael Castillo,2,-2,-1,-3,2,1,-3,-2,-2,-3,-3,-2,-2,1,1,1
+95,Entre 25 y 34 años,Secundaria INCOMPLETA,Mujer,Villa Luzuriaga,2,2,2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,1
+96,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Villa Luzuriaga,2,2,1,-2,-1,-1,-3,-2,-1,-1,1,1,-1,-1,-1,1
+97,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,González Catán,1,1,-3,-3,-3,-2,-3,-2,-2,0,1,0,-1,0,2,1
+98,Entre 35 y 54 años,Primaria INCOMPLETA,Mujer,Laferrere,-1,-1,1,-2,-2,-1,1,-2,1,-1,-2,-2,-1,1,-1,1
+99,Entre 35 y 54 años,Terciario COMPLETO,Hombre,Ciudad Evita,-2,-1,-2,-3,-2,-2,-3,-2,-2,-2,-2,-2,-2,-2,-3,1
+100,55 años o más,Terciario COMPLETO,Mujer,González Catán,3,3,1,-3,-2,2,-3,-2,-1,-1,-3,-3,-2,0,3,1
+101,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,San Justo,-3,-3,-3,-1,-1,-1,-3,-2,-2,-2,1,-3,-1,-1,-3,1
+102,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Lomas del Mirador,-3,-3,-1,-2,-3,1,1,-2,-1,1,2,-2,-1,-1,-2,2
+103,55 años o más,Secundaria INCOMPLETA,Hombre,Ramos Mejía,-2,-2,-2,1,2,1,-2,-2,-2,-2,1,-2,-2,-2,-2,2
+104,Entre 16 y 24 años,Secundaria COMPLETA,Hombre,González Catán,2,-1,2,-3,-3,-2,-2,-2,0,0,-1,-1,1,-2,1,1
+105,Entre 35 y 54 años,Terciario COMPLETO,Mujer,González Catán,3,3,1,-3,-3,2,-3,-2,0,0,-2,0,1,0,1,1
+106,55 años o más,Universitario INCOMPLETO,Hombre,Ramos Mejía,-1,-3,-3,-3,-3,3,3,-2,-2,0,3,1,-2,-2,-3,2
+107,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Virrey del Pino,1,1,1,-3,1,-1,-2,-2,-2,-1,-3,-2,-3,-1,1,1
+108,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Isidro Casanova,-1,2,1,-2,-2,-2,-2,-2,-2,-2,-3,-2,-2,-3,1,1
+109,Entre 16 y 24 años,Secundaria INCOMPLETA,Mujer,Isidro Casanova,1,1,-1,-3,-3,-2,-3,-2,0,0,-3,0,-1,0,1,1
+110,55 años o más,Universitario COMPLETO,Mujer,González Catán,-3,-3,-3,1,2,2,-1,-2,1,-2,-2,-2,-1,-2,-3,2
+111,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Ramos Mejía,-3,-3,-3,-2,1,2,1,-2,-2,-3,2,-3,-3,-3,-3,2
+112,Entre 35 y 54 años,Terciario COMPLETO,Mujer,San Justo,-1,-3,-3,-1,2,1,1,-2,-1,1,-2,-2,0,0,-1,2
+113,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Villa Madero,1,-2,1,1,2,-1,-3,-2,-1,-2,-3,1,1,1,-2,1
+114,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,González Catán,1,1,-1,-2,1,-1,-2,-2,0,-1,-2,-1,-2,-2,-2,1
+115,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,González Catán,1,2,-3,-3,-3,-2,-2,-2,-2,-2,-2,-2,-2,0,-1,1
+116,Entre 35 y 54 años,Universitario COMPLETO,Mujer,Villa Madero,1,2,-1,-3,-3,-3,-3,-2,-2,-3,-3,0,-1,0,-1,1
+117,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,González Catán,-1,2,-1,-3,-3,-2,-2,-2,-2,-1,-3,-1,-1,-2,-2,1
+118,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Isidro Casanova,2,2,-3,-2,2,-2,-2,-2,0,0,-3,2,0,0,1,1
+119,Entre 35 y 54 años,Universitario INCOMPLETO,Hombre,San Justo,-2,-2,-2,-2,-2,-2,-2,-2,2,-2,-3,-3,-2,0,0,1
+120,Entre 16 y 24 años,Terciario INCOMPLETO,Mujer,San Justo,-3,-3,1,-3,-3,-3,-3,-2,-2,-2,-2,-3,-1,-1,-1,1
+121,Entre 16 y 24 años,Secundaria COMPLETA,Hombre,Isidro Casanova,-1,-1,-3,-3,1,-2,-3,-2,-2,-1,-3,-1,-1,-2,-3,1
+122,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Rafael Castillo,-1,-2,-2,-1,-1,1,1,-2,-2,-2,-2,-2,-2,-2,-2,1
+123,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Isidro Casanova,-3,-3,-3,-3,1,3,-2,-2,-2,0,-3,0,0,0,-3,2
+124,Entre 16 y 24 años,Secundaria INCOMPLETA,Mujer,Ramos Mejía,-3,-3,-3,-3,3,2,3,-2,0,-1,2,1,0,-2,-1,2
+125,55 años o más,Universitario COMPLETO,Hombre,Virrey del Pino,-1,2,-2,-3,-1,-1,-3,-2,-2,-3,-3,-3,-1,-1,1,1
+126,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Virrey del Pino,2,2,1,-1,1,2,-2,-2,-2,-2,-3,-2,-1,-1,1,1
+127,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Isidro Casanova,-2,-1,-2,-3,-1,-2,-2,-2,-2,-1,-2,-1,-1,-2,-1,1
+128,Entre 16 y 24 años,Terciario INCOMPLETO,Mujer,Laferrere,-3,-3,-3,-2,1,-1,-3,-2,-2,-2,-3,-3,-3,-2,-3,1
+129,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Laferrere,-1,-2,-1,-3,-1,-2,-2,-2,-2,-2,1,-2,-2,-2,-2,1
+130,Entre 35 y 54 años,Primaria COMPLETA,Mujer,Isidro Casanova,3,3,-3,-3,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,1
+131,55 años o más,Primaria COMPLETA,Mujer,Laferrere,2,2,-3,-3,-3,0,-2,-2,0,-2,-3,2,3,1,2,1
+132,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,Ciudad Evita,-2,-2,-2,-1,-2,-1,-2,-2,-2,-2,-2,-2,-2,-2,-2,1
+133,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,La Tablada,3,3,3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,2,1
+134,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,San Justo,1,2,-2,-3,-3,-3,-3,-3,0,0,-3,0,0,0,1,1
+135,55 años o más,Terciario INCOMPLETO,Mujer,Tapiales,1,3,3,-3,-3,-1,-3,-3,-3,-1,-3,0,-1,-3,2,1
+136,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Aldo Bonzi,2,3,2,-3,-3,0,-3,-3,0,0,-3,0,-3,0,2,1
+137,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Isidro Casanova,-3,-1,-3,-3,-3,-3,1,-3,-3,-3,-3,1,-3,-3,-2,1
+138,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Ciudad Evita,-2,-3,-3,-3,-1,1,-1,-3,-3,-2,-1,-2,1,-2,-3,1
+139,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Ramos Mejía,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,2,2,1,0,-3,1
+140,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Virrey del Pino,-3,-3,-3,-1,1,-1,1,-3,0,0,-1,-1,-2,-2,-3,2
+141,Entre 16 y 24 años,Secundaria COMPLETA,Hombre,Isidro Casanova,-3,-3,0,3,3,2,2,-3,-3,-3,-1,-3,-3,-3,-3,2
+142,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,González Catán,2,3,-2,-3,1,1,-3,-3,-2,0,-3,-2,0,0,1,1
+143,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,González Catán,1,2,-1,-3,-3,-3,-3,-3,-3,0,-3,0,0,0,-1,1
+144,55 años o más,Secundaria COMPLETA,Hombre,Rafael Castillo,2,3,-1,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-2,2,1
+145,Entre 25 y 34 años,Secundaria INCOMPLETA,Mujer,Virrey del Pino,2,3,-1,-3,-3,-3,-3,-3,-3,-2,-2,-1,-2,-1,1,1
+146,55 años o más,Primaria INCOMPLETA,Mujer,Isidro Casanova,1,1,1,-3,-3,-3,-3,-3,-3,-3,-3,-2,-2,-2,-1,1
+147,55 años o más,Secundaria INCOMPLETA,Mujer,Rafael Castillo,2,3,3,-3,-2,-2,-2,-3,-1,-2,-3,-1,1,-2,2,1
+148,55 años o más,Posgrado y más,Hombre,Laferrere,1,2,2,-3,-3,1,-3,-3,-3,-3,-3,-3,-1,-2,3,1
+149,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Villa Luzuriaga,2,3,3,-3,-3,-1,-3,-3,-3,-3,-3,-3,-3,-3,1,1
+150,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Isidro Casanova,3,3,3,-3,-3,-3,-3,-3,-3,-3,-3,-1,-2,-2,-2,1
+151,Entre 35 y 54 años,Terciario COMPLETO,Mujer,González Catán,1,2,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-2,0,-2,1
+152,Entre 25 y 34 años,Terciario COMPLETO,Hombre,Villa Luzuriaga,1,3,1,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,0,1,1
+153,Entre 25 y 34 años,Terciario COMPLETO,Hombre,Isidro Casanova,-1,-1,-3,-3,-3,-2,-1,-3,-3,-3,-3,-3,0,0,-3,1
+154,Entre 35 y 54 años,Primaria INCOMPLETA,Hombre,González Catán,-3,2,-3,-3,-3,-3,-3,-3,-1,-3,-3,0,-1,-3,-3,1
+155,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Ramos Mejía,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,1
+156,Entre 16 y 24 años,Terciario INCOMPLETO,Mujer,Villa Luzuriaga,-1,1,-1,-3,-3,-1,-3,-3,-3,-3,-3,-2,-2,-1,-1,1
+157,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,La Tablada,-3,-3,-3,-1,1,-2,1,-3,-2,-2,-1,-3,-3,-3,-3,1
+158,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,González Catán,0,3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,2,1,-1,1
+159,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Villa Luzuriaga,-2,-2,2,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,1
+160,55 años o más,Universitario COMPLETO,Hombre,Lomas del Mirador,1,3,2,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,1,1
+161,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Lomas del Mirador,-1,1,-3,-3,-3,-3,-3,-3,0,0,-3,0,0,0,-3,1
+162,Entre 16 y 24 años,Terciario COMPLETO,Mujer,González Catán,1,3,-2,-3,2,0,0,-3,0,0,-3,0,0,0,1,1
+163,Entre 35 y 54 años,Terciario COMPLETO,Hombre,San Justo,-3,-3,-3,-2,1,1,0,-3,0,-3,1,0,-1,0,-1,2
+164,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Laferrere,-1,1,1,-2,-1,-1,1,-3,0,0,-2,0,-1,0,-1,1
+165,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,González Catán,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,1
+166,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Ciudad Evita,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,1
+167,Entre 16 y 24 años,Primaria COMPLETA,Hombre,Isidro Casanova,-3,-3,-1,-1,1,-2,2,-3,-2,-1,1,-1,-3,-2,-3,2
+168,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Isidro Casanova,1,2,-3,-3,-3,-3,-3,-3,-1,0,-3,0,-3,-1,-3,1
+169,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,San Justo,-3,-3,-3,-1,2,2,2,-3,-3,-3,-2,-3,-3,0,-3,2
+170,Entre 25 y 34 años,Terciario INCOMPLETO,Mujer,Isidro Casanova,1,3,1,-3,-3,-3,-3,-3,-3,-3,-3,2,-1,1,2,1
+171,Entre 35 y 54 años,Terciario COMPLETO,Hombre,La Tablada,-3,-3,-3,1,3,-3,3,-3,-3,-3,2,2,-3,-3,-3,2
+172,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,Isidro Casanova,2,3,3,-3,-3,-2,-3,-3,-3,-3,-3,-3,-3,-2,3,1
+173,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Rafael Castillo,3,3,2,-3,-3,-2,-3,-3,-3,-2,-3,1,2,-2,-2,1
+174,Entre 35 y 54 años,Terciario COMPLETO,Hombre,Villa Luzuriaga,1,3,2,-3,-3,-2,-3,-3,-3,-3,-3,2,-3,1,2,1
+175,Entre 35 y 54 años,Terciario COMPLETO,Hombre,Villa Madero,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,1
+176,55 años o más,Universitario COMPLETO,Mujer,Villa Luzuriaga,3,3,3,-3,-3,-2,-3,-3,-3,-3,-3,-3,-1,1,3,1
+177,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,González Catán,3,2,1,-3,-3,-3,-3,-3,-3,-3,-3,-2,-2,-3,2,1
+178,Entre 16 y 24 años,Primaria COMPLETA,Mujer,Isidro Casanova,1,1,-3,-3,-3,-3,-3,-3,-3,-3,0,-1,-1,-1,0,1
+179,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Isidro Casanova,-3,-3,-3,-1,2,2,2,-3,0,0,-1,0,0,0,-2,2
+180,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Laferrere,1,3,1,-3,-3,-2,-3,-3,-3,-2,-3,-2,-3,-2,1,1
+181,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Virrey del Pino,3,2,2,-3,-2,0,0,0,0,0,-3,0,0,0,1,1
+182,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Laferrere,1,2,2,-3,-2,-2,-3,0,0,0,-3,0,-2,0,2,1
+183,55 años o más,Universitario COMPLETO,Hombre,San Justo,-3,-3,-3,2,-1,1,2,0,3,2,2,2,2,-2,-3,2
+184,Entre 25 y 34 años,Terciario COMPLETO,Mujer,Villa Celina,1,-1,-3,-3,-3,-1,-3,0,-1,0,-3,-1,-1,0,-1,1
+185,Entre 25 y 34 años,Terciario COMPLETO,Hombre,Laferrere,-1,2,-1,-3,1,0,-3,0,0,0,-3,0,0,0,-1,1
+186,Entre 35 y 54 años,Primaria INCOMPLETA,Mujer,Laferrere,-3,-3,-3,3,3,0,-3,0,0,0,2,2,0,-3,-3,2
+187,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Ciudad Evita,3,3,2,-3,1,0,0,0,0,0,0,0,0,0,3,1
+188,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Isidro Casanova,-2,1,-2,-3,-3,0,-2,0,0,0,-3,0,-1,0,-1,1
+189,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,Ramos Mejía,-1,-3,-1,1,1,2,-1,0,2,0,0,0,0,0,0,2
+190,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,La Tablada,-2,-2,1,1,2,1,1,0,0,0,1,0,1,0,1,2
+191,Entre 35 y 54 años,Universitario COMPLETO,Mujer,Lomas del Mirador,-3,-3,-3,2,2,1,1,0,1,1,1,3,-1,0,-3,2
+192,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Lomas del Mirador,0,-3,-3,-3,-3,0,0,0,0,-1,-3,0,-2,0,-2,1
+193,55 años o más,Terciario INCOMPLETO,Mujer,Ramos Mejía,-3,-3,-3,3,3,-2,2,0,3,0,3,-2,0,0,-3,2
+194,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Isidro Casanova,-3,-3,1,1,2,0,0,0,0,0,-3,0,0,1,1,2
+195,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,González Catán,3,2,-1,-3,-1,0,0,0,0,0,-2,0,0,0,2,1
+196,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,La Tablada,2,3,1,-3,-3,1,-3,0,0,0,-3,0,0,0,1,1
+197,Entre 25 y 34 años,Terciario COMPLETO,Hombre,Lomas del Mirador,2,2,-1,-3,-3,-2,-3,0,0,0,-3,0,0,0,1,1
+198,Entre 16 y 24 años,Secundaria INCOMPLETA,Mujer,La Tablada,1,2,1,-3,-1,1,1,0,0,0,-3,0,0,0,-1,1
+199,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,González Catán,-1,-1,-3,-3,-3,-3,-3,0,-3,0,-2,0,0,0,1,1
+200,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,Laferrere,-2,-3,-3,-1,1,0,1,0,0,0,3,0,0,0,-3,2
+201,55 años o más,Posgrado y más,Mujer,Ramos Mejía,-3,-3,-3,-1,1,2,-3,0,2,1,-2,1,1,-1,-3,2
+202,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Isidro Casanova,3,3,1,-3,-1,0,0,0,0,0,0,0,0,0,-1,1
+203,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Villa Luzuriaga,-2,-1,-1,-2,-2,1,-1,0,0,0,-2,0,-1,0,-1,1
+204,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Villa Celina,-3,-3,-3,-3,-2,0,3,0,0,0,2,0,0,0,-3,2
+205,55 años o más,Posgrado y más,Mujer,Ramos Mejía,-3,-3,-3,-3,-2,2,1,0,1,3,1,2,-2,-2,-3,2
+206,55 años o más,Terciario COMPLETO,Mujer,San Justo,-2,-3,-3,2,2,2,-3,0,2,0,1,0,0,0,-3,2
+207,55 años o más,Universitario INCOMPLETO,Hombre,Villa Luzuriaga,1,3,1,-3,-3,-3,-3,0,-3,-1,-3,-3,0,0,1,1
+208,Entre 35 y 54 años,Universitario INCOMPLETO,Hombre,Laferrere,2,3,3,-3,-3,-1,-3,0,-2,0,-3,-3,-3,0,2,1
+209,Entre 35 y 54 años,Primaria COMPLETA,Hombre,Laferrere,-3,-3,-3,-3,-3,-3,-1,0,-3,0,-2,0,-3,0,-1,1
+210,55 años o más,Primaria COMPLETA,Hombre,Villa Madero,-3,-3,-3,1,-2,0,2,0,2,0,3,3,-2,0,-3,2
+211,55 años o más,Secundaria INCOMPLETA,Hombre,Villa Celina,-1,-3,-1,2,2,2,-3,0,2,2,3,3,0,-1,-2,2
+212,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Ramos Mejía,-2,-3,-3,-1,1,0,0,0,0,0,0,0,0,0,-2,2
+213,Entre 16 y 24 años,Secundaria INCOMPLETA,Hombre,Villa Luzuriaga,-2,-3,-2,-1,1,-1,1,0,0,0,1,0,0,0,-1,2
+214,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Villa Luzuriaga,-2,-2,-3,-1,2,2,-1,0,-3,-3,-3,-2,-2,-1,-3,2
+215,Entre 16 y 24 años,Universitario INCOMPLETO,Hombre,Ramos Mejía,-3,-3,-3,1,-1,-1,3,0,0,0,1,0,0,0,-2,2
+216,55 años o más,Primaria COMPLETA,Hombre,Ramos Mejía,2,2,2,-3,-1,2,-2,0,1,-1,-3,0,-1,0,2,1
+217,Entre 35 y 54 años,Universitario INCOMPLETO,Hombre,San Justo,-1,1,-3,-3,-2,0,-3,0,0,0,-3,0,0,0,-2,1
+218,Entre 35 y 54 años,Terciario INCOMPLETO,Hombre,Villa Luzuriaga,3,3,0,0,0,0,3,0,0,0,3,0,0,0,2,2
+219,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Laferrere,-1,-1,1,-1,-1,1,-3,0,0,0,-1,0,0,0,1,1
+220,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,González Catán,2,-2,1,-3,2,2,-3,0,0,0,3,0,-1,0,-2,2
+221,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Isidro Casanova,1,-2,0,-2,2,0,3,0,0,0,2,0,0,0,-3,2
+222,Entre 16 y 24 años,Secundaria INCOMPLETA,Mujer,González Catán,-1,-3,-3,-3,-2,-2,-2,0,0,0,-3,-2,-2,0,-2,1
+223,Entre 35 y 54 años,Primaria INCOMPLETA,Mujer,Rafael Castillo,-1,-2,-2,-3,1,0,2,0,0,0,0,-1,0,0,-1,2
+224,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,González Catán,3,3,1,-3,-3,0,0,0,0,0,-1,0,0,0,1,1
+225,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Villa Celina,-1,-1,-3,-3,-3,-3,-3,0,0,0,-3,0,0,0,-2,1
+226,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Isidro Casanova,1,2,1,-3,-2,-2,-3,0,0,-1,-3,-3,-2,-3,1,1
+227,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Virrey del Pino,-3,-3,-3,-3,1,0,3,0,1,0,-3,0,0,0,-1,2
+228,Entre 35 y 54 años,Universitario INCOMPLETO,Hombre,Laferrere,-3,-3,-3,-1,2,2,2,0,0,0,0,0,0,0,-3,2
+229,Entre 35 y 54 años,Primaria INCOMPLETA,Mujer,Ciudad Evita,3,3,3,-3,-3,0,-3,0,0,-3,-3,0,0,0,1,1
+230,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,San Justo,3,-3,2,-2,-1,0,0,0,0,0,-3,0,0,0,-1,1
+231,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Virrey del Pino,2,2,1,-2,-2,1,-2,0,-2,1,-2,1,-2,1,-1,1
+232,55 años o más,Secundaria INCOMPLETA,Mujer,La Tablada,1,1,1,1,2,2,1,0,1,2,3,0,2,0,2,2
+233,Entre 35 y 54 años,Terciario INCOMPLETO,Hombre,Aldo Bonzi,1,2,1,-3,-3,1,-3,0,-3,-3,-3,0,0,0,1,1
+234,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Ciudad Evita,-3,-3,-3,-3,1,0,1,0,0,0,3,0,1,0,1,2
+235,Entre 16 y 24 años,Universitario INCOMPLETO,Hombre,Villa Luzuriaga,-1,1,-3,-3,-2,2,-2,0,-2,-1,-3,1,-2,0,-1,1
+236,Entre 25 y 34 años,Posgrado y más,Hombre,Ramos Mejía,-1,3,-3,-3,-3,-1,-3,0,0,0,-3,-3,0,0,1,1
+237,Entre 25 y 34 años,Universitario INCOMPLETO,Mujer,Ciudad Evita,3,3,1,-3,1,0,-2,0,0,0,-3,0,0,0,1,1
+238,Entre 35 y 54 años,Universitario COMPLETO,Mujer,San Justo,-3,-3,-3,1,2,1,-3,0,-2,-2,-1,-3,-2,0,-2,2
+239,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,Rafael Castillo,1,-3,-2,-3,1,0,-3,0,0,0,-3,0,0,0,-3,1
+240,55 años o más,Secundaria INCOMPLETA,Mujer,Laferrere,-1,-3,-3,-1,1,1,1,0,-1,-1,-3,0,1,0,-2,2
+241,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Laferrere,2,3,-2,-3,-2,0,2,0,0,0,-2,0,-2,0,2,1
+242,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Virrey del Pino,3,3,1,2,2,0,0,0,0,0,-1,0,1,0,1,1
+243,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,González Catán,3,3,2,-3,-3,-3,-2,0,0,2,-3,0,-2,-1,1,1
+244,Entre 35 y 54 años,Terciario COMPLETO,Mujer,La Tablada,-3,-3,-3,-2,2,2,-1,0,0,0,1,0,0,0,-2,2
+245,55 años o más,Terciario COMPLETO,Hombre,Ciudad Evita,-3,-3,-3,3,3,3,3,0,3,3,2,3,1,0,-3,2
+246,Entre 25 y 34 años,Terciario COMPLETO,Hombre,González Catán,-3,-3,-3,-2,-3,-2,3,0,0,0,2,0,0,0,-1,2
+247,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,González Catán,1,2,1,-3,-2,0,-3,0,0,0,-3,-3,-1,0,-1,1
+248,Entre 35 y 54 años,Primaria COMPLETA,Mujer,La Tablada,0,0,1,2,3,0,3,0,0,0,3,0,0,0,1,2
+249,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Villa Madero,-3,-3,0,1,1,0,-3,0,0,0,-3,-3,0,0,-2,2
+250,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Laferrere,3,3,2,-3,-3,0,3,0,0,0,2,0,0,0,3,1
+251,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Virrey del Pino,0,0,1,0,0,0,0,0,0,0,-3,0,0,0,-1,1
+252,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Rafael Castillo,-2,-2,-2,-2,0,0,0,0,0,0,-3,0,0,0,-1,2
+253,Entre 35 y 54 años,Universitario INCOMPLETO,Hombre,Villa Luzuriaga,2,3,-1,-3,-2,2,-3,0,0,-3,-3,0,0,0,3,1
+254,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Villa Luzuriaga,-1,-3,-1,1,1,0,0,0,0,0,0,0,0,0,-2,2
+255,55 años o más,Universitario COMPLETO,Mujer,Ramos Mejía,-1,-3,-3,-2,-1,-1,-3,0,0,0,-3,0,0,0,-3,1
+256,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,González Catán,-1,3,-1,-3,-3,-3,1,0,0,0,-3,-3,0,0,1,1
+257,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,González Catán,-1,2,2,-2,-2,0,-2,0,0,-1,-2,1,1,1,3,1
+258,55 años o más,Primaria COMPLETA,Mujer,Villa Madero,0,0,-1,1,3,3,2,0,0,0,0,0,0,0,-1,2
+259,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Ciudad Evita,1,-2,-2,-2,2,2,-2,0,0,0,-2,0,0,-2,1,2
+260,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Laferrere,1,1,-1,-2,-1,0,-1,0,-2,-2,-3,0,0,0,1,1
+261,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,Villa Luzuriaga,-3,-3,-3,-1,2,3,3,0,2,2,3,1,1,0,-3,2
+262,55 años o más,Terciario COMPLETO,Mujer,Laferrere,2,3,1,-2,-2,-2,-2,0,1,0,-2,1,-2,-2,1,1
+263,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Isidro Casanova,1,1,1,-3,-2,1,-3,0,1,0,-2,0,2,0,2,1
+264,Entre 25 y 34 años,Terciario COMPLETO,Mujer,González Catán,-2,-2,-2,-2,-2,-1,-1,0,0,0,-1,0,0,0,1,1
+265,Entre 16 y 24 años,Posgrado y más,Mujer,González Catán,-3,-3,-3,3,3,2,2,0,0,1,1,0,1,0,-2,2
+266,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Virrey del Pino,1,1,-2,-2,1,1,1,0,0,0,1,0,0,0,-2,2
+267,Entre 35 y 54 años,Universitario COMPLETO,Mujer,La Tablada,-2,-2,-3,1,2,2,1,0,1,2,-2,0,2,0,-2,2
+268,55 años o más,Secundaria INCOMPLETA,Mujer,Virrey del Pino,-1,-1,-2,-3,1,2,0,0,0,0,-3,0,2,0,-2,2
+269,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Ramos Mejía,-3,-3,-3,2,2,-1,1,0,0,0,-3,0,0,0,-1,2
+270,Entre 25 y 34 años,Universitario COMPLETO,Hombre,Villa Celina,1,1,-1,-3,-2,-1,1,0,0,0,-3,0,0,0,1,1
+271,Entre 16 y 24 años,Secundaria INCOMPLETA,Hombre,Ramos Mejía,-3,-3,-3,2,2,1,3,0,0,0,1,0,0,0,-2,2
+272,Entre 16 y 24 años,Secundaria INCOMPLETA,Mujer,Isidro Casanova,3,3,3,-1,-2,-1,-3,0,-3,-1,-3,-3,-1,0,1,1
+273,Entre 35 y 54 años,Terciario COMPLETO,Hombre,Laferrere,-3,3,3,-3,2,-1,-2,0,-1,-3,-3,0,-2,0,1,1
+274,Entre 35 y 54 años,Universitario INCOMPLETO,Hombre,Ramos Mejía,-1,-2,-3,-1,-1,0,1,0,0,0,-1,0,0,0,1,2
+275,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,González Catán,-2,-2,-2,2,3,-1,2,0,0,0,1,-2,-2,0,1,2
+276,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,La Tablada,-3,-3,-3,-2,-2,1,3,0,1,0,3,2,0,0,-3,2
+277,55 años o más,Secundaria COMPLETA,Mujer,San Justo,3,3,2,-3,-3,0,-3,0,0,0,-3,-3,-3,0,2,1
+278,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,San Justo,-1,-1,-1,-3,-3,0,0,0,0,0,-3,0,-1,0,-1,1
+279,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Villa Madero,2,2,-1,-3,-3,-3,-3,0,-3,-3,-3,0,0,0,1,1
+280,55 años o más,Universitario COMPLETO,Mujer,Virrey del Pino,2,2,2,-2,1,0,0,0,0,0,2,0,2,3,1,1
+281,Entre 25 y 34 años,Universitario INCOMPLETO,Mujer,Laferrere,-1,-3,-2,-2,-2,0,-2,0,1,0,-3,0,1,0,-1,1
+282,55 años o más,Secundaria COMPLETA,Hombre,Ciudad Evita,1,3,2,-3,-2,2,-3,0,-2,-2,-3,-3,-1,0,2,1
+283,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Ciudad Evita,-3,-3,-3,-1,1,0,1,0,0,0,-2,0,-2,0,-3,2
+284,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,San Justo,3,3,-3,-3,-3,0,-3,0,0,0,-3,0,0,0,1,1
+285,55 años o más,Secundaria COMPLETA,Mujer,San Justo,-3,-3,-3,-3,2,0,0,0,0,0,-2,0,0,0,2,2
+286,55 años o más,Universitario INCOMPLETO,Hombre,La Tablada,-3,-3,-3,-2,3,1,-3,0,0,0,2,-1,0,0,1,2
+287,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,San Justo,3,3,2,-3,-3,-3,-3,0,-3,-3,-3,-3,-3,-3,-3,1
+288,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Ramos Mejía,1,1,-1,-1,1,2,-3,0,0,1,1,2,1,1,-1,2
+289,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Ciudad Evita,1,1,1,-2,0,0,-1,0,0,0,-1,0,0,0,-1,1
+290,55 años o más,Secundaria COMPLETA,Mujer,Lomas del Mirador,-3,-3,-3,-3,1,2,-1,0,-1,0,-3,-1,0,0,-2,2
+291,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Laferrere,2,3,-1,-3,-3,0,-3,0,0,0,-3,1,-3,0,1,1
+292,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,San Justo,-2,-3,1,1,1,0,-2,0,0,0,-1,1,0,0,1,2
+293,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Isidro Casanova,1,2,-1,-3,-3,1,-3,0,0,0,-3,2,0,-3,-3,1
+294,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Villa Luzuriaga,-3,-3,-3,2,2,3,1,0,2,2,2,3,0,0,-3,2
+295,Entre 35 y 54 años,Universitario COMPLETO,Hombre,Ciudad Evita,-3,-3,-3,1,1,2,1,0,2,2,-1,-1,1,0,-2,2
+296,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Isidro Casanova,-2,-1,-2,-2,1,1,2,0,-1,-1,1,0,-1,-2,-1,2
+297,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Virrey del Pino,-1,-1,-2,-1,-2,0,1,0,0,-1,1,0,0,0,-1,2
+298,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Rafael Castillo,-3,-3,-3,-3,-3,0,1,0,0,0,-3,-2,-2,0,-2,1
+299,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Laferrere,-1,-1,-3,-3,-3,1,-3,0,-2,0,-3,0,-2,0,-3,1
+300,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Villa Madero,-1,-2,-3,-2,1,1,-1,0,0,0,-3,0,0,0,-2,2
+301,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,20 de Junio,0,2,1,-3,1,-1,-1,0,1,-1,3,1,1,1,1,1
+302,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Ramos Mejía,-1,-1,1,-2,2,0,-1,0,0,0,0,0,0,0,1,2
+303,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Isidro Casanova,1,-2,-3,-1,1,0,-3,0,0,0,-1,0,-2,0,-2,2
+304,55 años o más,Universitario COMPLETO,Mujer,Ramos Mejía,-3,-3,-3,2,2,1,1,0,2,2,3,3,0,0,-3,2
+305,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,La Tablada,1,-1,-1,-3,1,0,-1,0,0,0,-3,-3,1,0,1,1
+306,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Ramos Mejía,-3,-3,-3,-2,2,1,-1,0,0,0,-2,-1,0,0,-3,2
+307,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,Isidro Casanova,-3,-3,-3,3,3,1,1,0,0,0,3,1,0,0,-3,2
+308,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,La Tablada,3,3,-3,-2,-1,-1,2,0,0,-2,-2,0,0,2,2,1
+309,55 años o más,Terciario COMPLETO,Hombre,González Catán,-2,-2,-3,-1,2,1,-1,0,2,2,3,2,-1,0,-3,2
+310,Entre 25 y 34 años,Secundaria INCOMPLETA,Mujer,Virrey del Pino,2,1,-1,-2,1,1,-1,0,0,0,-2,2,-1,0,-1,1
+311,Entre 25 y 34 años,Terciario INCOMPLETO,Mujer,Laferrere,-2,-2,-2,-2,-2,2,1,0,0,0,-2,0,0,0,-2,2
+312,55 años o más,Terciario INCOMPLETO,Mujer,Isidro Casanova,3,3,-1,-1,2,2,-1,0,-1,0,1,0,-1,0,1,1
+313,Entre 25 y 34 años,Secundaria INCOMPLETA,Mujer,Virrey del Pino,3,3,-2,-3,-2,0,-2,0,0,0,-3,-1,-1,0,-1,1
+314,Entre 35 y 54 años,Primaria COMPLETA,Mujer,Isidro Casanova,-1,3,1,-3,-3,-1,-3,0,-2,-2,-3,0,-3,0,-1,1
+315,Entre 25 y 34 años,Universitario COMPLETO,Mujer,Villa Celina,1,1,0,-1,-1,0,0,0,0,0,-2,0,0,0,0,1
+316,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Lomas del Mirador,-3,-3,-3,-2,1,1,1,0,0,0,1,2,0,0,-3,2
+317,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Rafael Castillo,3,3,1,-3,2,-1,1,0,0,0,-3,1,1,-1,1,1
+318,Entre 35 y 54 años,Primaria COMPLETA,Mujer,Rafael Castillo,3,3,2,0,-2,0,0,0,0,0,-3,0,0,0,2,1
+319,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Ramos Mejía,-2,-3,-1,-3,-3,0,0,0,1,0,0,0,0,0,1,2
+320,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,La Tablada,2,1,-3,-3,2,2,-3,0,0,0,-3,-2,0,0,-1,1
+321,Entre 35 y 54 años,Terciario INCOMPLETO,Hombre,Laferrere,-3,-3,-3,-2,2,2,2,0,-1,-2,-2,-3,-3,-3,-3,2
+322,55 años o más,Universitario COMPLETO,Mujer,Ramos Mejía,1,-1,0,-2,-1,-1,2,0,0,0,-2,0,-3,0,1,1
+323,55 años o más,Universitario COMPLETO,Hombre,Villa Luzuriaga,1,3,1,-3,-3,-2,-3,0,-2,-2,-3,0,0,0,2,1
+324,Entre 35 y 54 años,Posgrado y más,Hombre,Ramos Mejía,-1,-3,-2,-2,-2,2,3,0,1,2,-2,1,-1,0,-2,2
+325,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Ciudad Evita,1,1,1,-3,-3,-1,-3,0,0,-2,-3,0,-2,0,1,1
+326,Entre 35 y 54 años,Universitario COMPLETO,Hombre,Ciudad Evita,-3,-3,-3,-2,-2,2,-3,0,3,1,2,3,-2,0,-2,2
+327,Entre 35 y 54 años,Primaria COMPLETA,Hombre,Isidro Casanova,-1,-2,-2,-3,-1,1,-1,0,-2,1,-2,1,-1,0,1,1
+328,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,San Justo,-3,-3,-2,1,2,2,2,0,-1,1,1,0,-1,0,-3,2
+329,55 años o más,Posgrado y más,Mujer,San Justo,-3,-3,-3,3,2,2,-3,0,3,3,1,3,1,0,-3,2
+330,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Isidro Casanova,1,2,-3,-3,1,0,-1,0,0,0,-3,1,-1,0,-3,1
+331,Entre 25 y 34 años,Universitario INCOMPLETO,Mujer,Laferrere,1,-1,-1,-1,-1,0,-1,0,0,0,-2,0,1,0,1,1
+332,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Villa Luzuriaga,-3,-3,-3,-3,-1,3,2,0,0,0,-3,0,0,0,-2,2
+333,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Villa Celina,1,-1,-3,1,2,0,-1,0,0,0,0,0,0,0,1,2
+334,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Virrey del Pino,2,2,1,-3,-3,0,0,0,0,0,0,0,0,0,0,1
+335,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,Virrey del Pino,1,1,-1,-2,0,0,0,0,0,0,0,0,0,0,-2,1
+336,Entre 25 y 34 años,Universitario INCOMPLETO,Mujer,Villa Luzuriaga,2,2,-1,-3,0,0,0,0,0,0,-3,0,2,0,1,1
+337,Entre 35 y 54 años,Primaria COMPLETA,Hombre,González Catán,-3,-3,-2,1,2,3,3,0,0,0,3,0,2,0,-1,2
+338,55 años o más,Secundaria INCOMPLETA,Mujer,La Tablada,2,1,-2,-2,0,0,0,0,0,0,-1,0,0,0,2,1
+339,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Laferrere,-1,1,-1,-3,-1,-1,-2,0,0,-1,-2,0,-1,0,-1,1
+340,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Virrey del Pino,-3,-3,-3,-1,-2,-1,3,0,2,-1,1,-1,-2,-3,-3,2
+341,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,González Catán,-3,2,-3,-3,2,2,2,0,-3,0,-3,0,0,0,-3,2
+342,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Virrey del Pino,-1,-3,-3,1,0,0,-2,0,0,0,2,0,0,0,-2,2
+343,55 años o más,Universitario COMPLETO,Hombre,González Catán,-3,-3,-2,-3,-1,-1,1,0,-2,-2,-2,-2,-2,0,1,1
+344,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,San Justo,-2,-2,-3,-3,-3,-2,-3,0,0,-1,-3,0,0,-2,-3,1
+345,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,Isidro Casanova,1,-2,-1,-1,1,2,1,0,2,1,1,1,1,1,-1,2
+346,Entre 25 y 34 años,Universitario INCOMPLETO,Mujer,Rafael Castillo,-1,1,-1,-3,-3,0,2,0,0,-1,-2,-1,-1,0,1,1
+347,Entre 35 y 54 años,Universitario COMPLETO,Hombre,Ramos Mejía,-2,-3,-3,2,3,2,1,0,3,0,3,2,1,0,-1,2
+348,Entre 16 y 24 años,Secundaria INCOMPLETA,Hombre,González Catán,-1,1,-3,-3,1,0,3,0,0,0,0,0,0,0,0,2
+349,55 años o más,Primaria COMPLETA,Mujer,González Catán,3,3,2,-3,-3,-3,-3,0,0,0,-3,0,-3,-3,3,1
+350,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,González Catán,2,1,-1,-2,-1,2,2,0,0,0,2,0,-1,0,1,2
+351,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Rafael Castillo,-3,-3,-2,-3,-3,0,-1,0,0,0,-3,0,0,-1,2,1
+352,55 años o más,Terciario COMPLETO,Mujer,Ciudad Evita,-2,-3,-2,-3,-3,1,-2,0,0,-2,-3,0,-2,0,-2,1
+353,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,Villa Luzuriaga,-1,3,2,-3,-3,0,-3,0,0,1,-3,2,2,2,2,1
+354,Entre 16 y 24 años,Terciario INCOMPLETO,Mujer,La Tablada,-1,3,2,-3,-3,0,0,0,0,0,-3,0,0,0,-2,1
+355,Entre 16 y 24 años,Terciario INCOMPLETO,Mujer,González Catán,3,3,1,-3,-2,0,0,0,0,0,-2,0,2,0,-2,1
+356,Entre 35 y 54 años,Universitario COMPLETO,Mujer,Villa Luzuriaga,-2,-3,1,3,3,2,1,0,0,0,2,0,1,0,-1,2
+357,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Lomas del Mirador,-2,-3,-3,-2,1,1,1,0,0,0,1,0,0,0,-2,2
+358,Entre 16 y 24 años,Secundaria INCOMPLETA,Mujer,González Catán,1,1,2,-2,1,0,-2,0,0,0,-3,0,0,0,1,1
+359,55 años o más,Terciario COMPLETO,Hombre,San Justo,2,3,1,-3,-3,-2,-3,0,-2,0,-3,-2,-2,0,1,1
+360,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Villa Luzuriaga,1,1,-3,-3,-3,0,-3,0,-2,0,-3,0,-3,0,-3,1
+361,Entre 35 y 54 años,Primaria COMPLETA,Mujer,Isidro Casanova,-2,-2,-2,-3,0,1,0,0,0,0,1,0,0,0,0,2
+362,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Villa Madero,1,1,-1,-3,-3,0,-3,0,0,0,-3,0,0,0,0,1
+363,55 años o más,Terciario COMPLETO,Hombre,Villa Luzuriaga,-2,-3,-2,-1,2,1,1,0,-2,2,2,2,0,0,-3,2
+364,Entre 25 y 34 años,Terciario INCOMPLETO,Mujer,Laferrere,1,-2,1,-2,-2,0,-1,0,0,0,-1,0,0,0,1,1
+365,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Isidro Casanova,-3,-3,-3,2,3,3,3,0,3,2,-2,3,-3,-3,-3,2
+366,Entre 25 y 34 años,Universitario INCOMPLETO,Hombre,González Catán,-3,-3,-1,-3,-1,2,-1,0,0,0,-2,0,0,0,-2,2
+367,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Laferrere,-3,-3,-3,2,2,2,3,0,0,0,3,2,2,0,-3,2
+368,Entre 16 y 24 años,Secundaria COMPLETA,Hombre,Villa Luzuriaga,-1,-1,1,-1,0,0,1,0,0,0,0,0,0,0,-2,2
+369,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Laferrere,1,-2,1,-2,2,2,-1,0,0,0,2,1,2,0,-2,2
+370,Entre 16 y 24 años,Secundaria COMPLETA,Hombre,Villa Luzuriaga,-2,-3,-1,1,2,-1,3,0,0,-1,-3,-3,0,-2,-3,2
+371,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Ciudad Evita,2,1,1,-3,-2,-2,-3,0,0,0,-3,0,0,0,1,1
+372,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,San Justo,-3,-3,-3,1,3,1,1,0,0,1,-2,-2,2,0,-1,2
+373,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,La Tablada,1,1,-1,-2,2,0,-3,0,0,0,-3,0,0,0,1,1
+374,Entre 35 y 54 años,Primaria COMPLETA,Mujer,Laferrere,-2,-3,-3,-2,3,3,-1,0,1,0,-2,0,-1,0,-3,2
+375,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Laferrere,1,-3,-3,2,1,0,1,0,0,0,-3,0,-1,-1,-1,2
+376,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Villa Luzuriaga,2,3,2,-3,-3,-3,-3,0,-2,0,-3,-2,1,0,2,1
+377,Entre 35 y 54 años,Terciario COMPLETO,Mujer,La Tablada,1,-3,-3,3,3,-1,2,0,-2,-2,1,0,-2,-2,-2,2
+378,Entre 35 y 54 años,Primaria INCOMPLETA,Mujer,Ciudad Evita,1,3,-1,-2,-2,0,2,0,0,0,2,0,0,0,0,1
+379,Entre 35 y 54 años,Terciario COMPLETO,Mujer,González Catán,2,1,-3,-3,-3,1,0,0,0,0,0,0,0,0,-3,1
+380,Entre 35 y 54 años,Universitario COMPLETO,Mujer,Ciudad Evita,-3,-3,-3,-1,2,2,-1,0,2,0,-2,2,0,0,-3,2
+381,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Virrey del Pino,3,3,-3,-3,-3,0,-3,0,0,-3,-3,0,0,0,2,1
+382,Entre 25 y 34 años,Terciario COMPLETO,Mujer,Laferrere,-2,-3,-3,-2,-1,0,-2,0,0,0,-3,0,-1,0,-1,2
+383,Entre 35 y 54 años,Universitario COMPLETO,Mujer,Ramos Mejía,-3,-2,-2,-1,1,1,-1,0,0,0,-1,0,0,0,-1,2
+384,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Virrey del Pino,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+385,Entre 35 y 54 años,Universitario INCOMPLETO,Hombre,Isidro Casanova,-3,-3,-3,-1,1,-2,1,0,2,2,3,3,0,0,-3,2
+386,55 años o más,Terciario COMPLETO,Mujer,Lomas del Mirador,-3,-3,-2,-1,2,2,-1,0,0,0,1,0,-1,0,-2,2
+387,Entre 35 y 54 años,Terciario COMPLETO,Mujer,González Catán,-3,-1,-3,-3,-2,-2,-2,0,-3,2,-3,0,3,-2,-1,1
+388,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Laferrere,1,1,-1,-3,-1,0,1,0,0,0,-3,0,0,0,-1,1
+389,55 años o más,Secundaria COMPLETA,Mujer,Ramos Mejía,-3,-3,-3,1,3,-1,1,0,0,0,1,0,0,0,-3,2
+390,55 años o más,Terciario INCOMPLETO,Hombre,Aldo Bonzi,-3,-3,-3,-3,2,1,-3,0,1,-2,1,1,-2,0,-3,2
+391,Entre 35 y 54 años,Posgrado y más,Mujer,Ciudad Evita,1,-2,-2,-3,-2,-1,-1,0,-1,0,-2,0,0,0,1,1
+392,Entre 35 y 54 años,Primaria COMPLETA,Mujer,Laferrere,-1,-2,-3,-1,2,0,0,0,0,0,1,0,0,0,-1,2
+393,55 años o más,Secundaria INCOMPLETA,Mujer,San Justo,2,1,-3,-3,1,1,-2,0,0,0,-3,0,1,0,1,1
+394,55 años o más,Universitario COMPLETO,Hombre,Villa Luzuriaga,-3,-3,-3,-3,3,3,2,0,1,0,3,-2,0,0,-2,2
+395,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Laferrere,-3,-3,-2,2,2,-2,1,0,0,0,3,0,0,0,-2,2
+396,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Laferrere,2,2,1,-3,1,0,-3,0,0,0,-3,0,0,0,-2,1
+397,55 años o más,Terciario COMPLETO,Hombre,Ramos Mejía,-3,-3,-3,1,2,1,-2,0,3,2,1,2,0,0,-3,2
+398,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Ciudad Evita,-3,-3,-3,1,3,2,-2,0,2,2,1,0,1,0,-3,2
+399,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Laferrere,3,2,1,-3,-3,-1,-3,0,0,1,-3,-2,-2,-2,-1,1
+400,55 años o más,Primaria COMPLETA,Mujer,Laferrere,-1,-2,2,-3,-3,-3,-3,0,0,0,-3,0,0,0,0,1
+401,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Laferrere,2,2,1,-3,0,0,-1,0,0,0,0,0,0,0,1,1
+402,Entre 35 y 54 años,Primaria COMPLETA,Hombre,Rafael Castillo,2,3,2,-3,-3,-2,-3,0,-2,0,-3,1,-2,1,2,1
+403,Entre 25 y 34 años,Terciario COMPLETO,Mujer,Isidro Casanova,-3,-3,-3,1,3,0,0,0,0,0,0,0,0,0,-3,2
+404,Entre 35 y 54 años,Universitario INCOMPLETO,Hombre,Ramos Mejía,-1,2,-2,-2,2,2,1,0,1,0,-3,0,0,0,-2,2
+405,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Laferrere,3,3,1,-3,1,1,2,0,2,2,-1,2,0,0,1,1
+406,Entre 35 y 54 años,Universitario INCOMPLETO,Hombre,Ramos Mejía,1,2,1,-3,-3,-3,-3,0,0,0,-3,-3,0,0,-1,1
+407,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,Villa Madero,-3,-3,-3,-2,3,2,1,0,-2,0,-1,1,-1,-1,-3,2
+408,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Villa Luzuriaga,-1,-2,-3,-1,1,2,-3,0,0,-1,-1,0,0,0,-1,2
+409,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,San Justo,-3,-3,-3,1,-3,2,3,0,-1,2,1,2,0,0,-3,2
+410,Entre 35 y 54 años,Primaria COMPLETA,Hombre,Laferrere,-1,-3,-3,-3,-1,0,0,0,0,0,-3,0,0,0,-3,2
+411,55 años o más,Universitario COMPLETO,Mujer,Villa Luzuriaga,-2,-3,-2,1,1,3,1,0,-2,0,2,0,0,-2,-2,2
+412,55 años o más,Universitario INCOMPLETO,Hombre,Ciudad Evita,2,3,1,-3,-3,2,-3,0,0,-3,-3,0,-2,0,3,1
+413,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Rafael Castillo,1,3,-1,-3,-2,-2,-2,0,1,-3,-3,-1,0,0,1,1
+414,Entre 25 y 34 años,Universitario COMPLETO,Hombre,Ramos Mejía,1,3,1,-3,-3,-3,-3,0,-3,-3,-3,-3,-1,0,3,1
+415,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,González Catán,-3,-3,-3,2,2,2,2,0,-1,-2,1,-1,1,0,-2,2
+416,Entre 25 y 34 años,Universitario INCOMPLETO,Hombre,Ramos Mejía,1,2,1,-2,-2,-2,-3,0,0,0,-3,0,0,0,1,1
+417,Entre 25 y 34 años,Terciario COMPLETO,Hombre,González Catán,1,3,-1,-3,-3,-3,-3,0,-3,-3,-3,-3,0,0,1,1
+418,55 años o más,Terciario COMPLETO,Mujer,Ramos Mejía,-1,1,-1,-3,-3,-3,-3,0,-3,-3,-3,-3,0,0,1,1
+419,55 años o más,Secundaria INCOMPLETA,Mujer,La Tablada,1,2,1,1,1,1,1,0,0,0,2,0,2,0,1,2
+420,Entre 25 y 34 años,Universitario INCOMPLETO,Mujer,Lomas del Mirador,-2,3,-3,-3,-3,-3,-3,0,0,0,0,0,0,0,-2,1
+421,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Virrey del Pino,-3,-3,-3,0,-3,0,2,0,0,0,0,0,0,0,0,2
+422,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Isidro Casanova,1,-1,-1,-1,1,0,0,0,0,0,1,-1,0,0,-1,2
+423,Entre 35 y 54 años,Posgrado y más,Hombre,Isidro Casanova,1,2,-1,-3,-3,-1,-3,0,-1,-3,-3,-3,-2,0,1,1
+424,Entre 35 y 54 años,Universitario INCOMPLETO,Hombre,Laferrere,-3,-3,-3,1,3,0,3,0,0,0,1,-3,1,0,-1,2
+425,Entre 25 y 34 años,Secundaria INCOMPLETA,Mujer,La Tablada,-1,-3,-1,-1,1,0,-1,0,0,1,-1,-1,1,0,1,2
+426,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Isidro Casanova,1,1,1,1,1,1,0,0,0,0,-2,0,1,0,1,2
+427,Entre 25 y 34 años,Universitario INCOMPLETO,Hombre,Isidro Casanova,-3,-3,-3,-3,-3,-2,-2,0,-2,0,-3,0,0,0,-2,1
+428,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Villa Madero,1,2,-3,-3,-3,-2,-3,0,0,-2,-3,0,-1,0,-1,1
+429,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,Villa Luzuriaga,2,2,1,-3,-2,0,-3,0,0,0,-3,1,0,0,-2,1
+430,Entre 35 y 54 años,Universitario COMPLETO,Mujer,Lomas del Mirador,2,-2,-2,-3,2,0,0,0,0,-2,-2,0,1,0,1,1
+431,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Villa Madero,-3,-3,-2,-2,2,2,-3,0,0,0,-3,-2,2,0,-3,2
+432,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Lomas del Mirador,-1,1,1,-1,-1,-1,0,0,0,0,-2,1,0,0,-3,1
+433,Entre 35 y 54 años,Primaria COMPLETA,Mujer,Laferrere,3,3,1,-3,1,1,0,0,3,1,2,1,2,0,2,2
+434,55 años o más,Secundaria COMPLETA,Mujer,Lomas del Mirador,-3,-3,-3,2,-3,-3,3,0,0,0,3,0,0,-2,-3,2
+435,55 años o más,Terciario COMPLETO,Hombre,San Justo,-2,-3,-3,1,3,3,-2,0,1,2,-2,1,-1,-2,-2,2
+436,55 años o más,Terciario COMPLETO,Mujer,Ciudad Evita,-3,-3,-3,3,1,1,-3,0,3,3,3,3,1,0,-3,2
+437,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,San Justo,1,3,1,-3,-3,-3,-3,0,0,0,-3,-3,0,-3,1,1
+438,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,Ramos Mejía,-1,-2,-2,-2,1,2,-2,0,-2,0,-2,1,0,0,-1,2
+439,55 años o más,Secundaria INCOMPLETA,Mujer,20 de Junio,-2,3,2,-3,2,0,-1,0,0,0,-3,0,0,0,2,1
+440,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,Ciudad Evita,1,2,1,-3,1,0,-1,0,0,0,-2,0,0,0,1,1
+441,55 años o más,Secundaria COMPLETA,Hombre,Lomas del Mirador,-3,-3,-3,1,1,3,2,0,2,1,2,2,0,0,-2,2
+442,Entre 25 y 34 años,Universitario INCOMPLETO,Mujer,Lomas del Mirador,-1,-3,-3,-1,1,0,-1,0,0,0,-3,0,0,0,-3,2
+443,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Lomas del Mirador,-1,-3,-3,-3,-3,-1,-1,0,-1,-2,-1,0,0,0,-1,1
+444,Entre 25 y 34 años,Terciario COMPLETO,Mujer,Villa Madero,-3,-3,-3,-3,-1,-3,-3,0,0,-1,-1,0,-1,0,-3,1
+445,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Virrey del Pino,-2,1,-3,-3,-3,0,-2,0,0,0,-3,0,1,0,-2,1
+446,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Virrey del Pino,1,3,-1,-2,-2,0,1,0,0,0,-2,0,0,0,1,1
+447,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Rafael Castillo,1,3,-1,-2,1,-1,-1,0,0,0,-2,-1,0,0,-2,1
+448,Entre 35 y 54 años,Universitario INCOMPLETO,Hombre,Lomas del Mirador,-3,-3,-3,2,3,-1,-2,0,2,2,2,3,-2,0,-3,2
+449,Entre 35 y 54 años,Terciario COMPLETO,Mujer,San Justo,-2,-3,-3,-2,-1,2,-2,0,-1,-2,-1,1,1,0,-2,2
+450,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Villa Luzuriaga,1,-2,-1,-2,-1,0,-1,0,-1,0,-2,0,0,0,1,1
+451,Entre 25 y 34 años,Terciario COMPLETO,Mujer,González Catán,3,3,3,-1,0,0,0,0,0,0,-1,2,2,0,2,1
+452,55 años o más,Terciario COMPLETO,Mujer,Aldo Bonzi,-2,-3,-3,-2,3,2,-3,0,0,0,-3,0,0,0,-3,2
+453,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Isidro Casanova,0,-3,-3,0,0,0,0,0,0,0,0,0,0,0,-3,2
+454,Entre 35 y 54 años,Terciario COMPLETO,Mujer,San Justo,-2,-1,2,2,2,3,3,0,0,1,3,2,1,-1,-2,2
+455,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Villa Luzuriaga,2,-1,1,-2,-2,0,-2,0,0,-2,-2,0,0,0,-2,1
+456,Entre 25 y 34 años,Universitario COMPLETO,Mujer,González Catán,1,2,-3,-3,-3,-1,-3,0,-3,1,-3,1,-2,-2,-3,1
+457,55 años o más,Secundaria INCOMPLETA,Hombre,San Justo,2,2,1,-3,-3,1,-3,0,-2,0,-3,-3,-1,0,1,1
+458,55 años o más,Universitario INCOMPLETO,Mujer,La Tablada,-3,-3,-3,-2,1,0,0,0,-2,0,0,0,-2,-2,-3,2
+459,Entre 25 y 34 años,Terciario INCOMPLETO,Mujer,González Catán,3,3,-3,-3,-2,-1,-3,0,0,-1,-3,0,-1,0,-3,1
+460,55 años o más,Secundaria COMPLETA,Mujer,Villa Luzuriaga,1,3,1,-3,-2,1,-3,0,0,0,-3,0,0,0,1,1
+461,55 años o más,Secundaria INCOMPLETA,Hombre,Laferrere,-2,-2,-1,2,2,1,2,0,2,3,2,3,1,0,1,2
+462,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Aldo Bonzi,-3,-3,-2,-1,1,3,2,0,0,0,3,0,2,0,-1,2
+463,Entre 25 y 34 años,Universitario INCOMPLETO,Hombre,Villa Luzuriaga,1,-1,-2,-1,1,0,-3,0,0,0,-3,0,0,0,-1,1
+464,Entre 16 y 24 años,Secundaria COMPLETA,Hombre,González Catán,-3,-3,-2,1,-1,-1,2,0,0,0,-3,-3,0,0,-1,2
+465,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,Rafael Castillo,1,3,-3,-3,-3,-3,-3,0,0,0,-3,-1,0,0,-2,1
+466,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Rafael Castillo,3,3,2,-2,-2,0,-3,0,0,0,2,0,0,0,2,1
+467,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Lomas del Mirador,1,3,1,-3,-2,-2,-3,0,-3,-2,-3,-3,-2,0,2,1
+468,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,Laferrere,3,2,-1,-3,-2,1,-3,0,0,0,-3,1,1,0,1,1
+469,Entre 25 y 34 años,Primaria INCOMPLETA,Hombre,La Tablada,2,2,2,-2,0,0,-3,0,0,0,-1,0,0,0,1,1
+470,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Virrey del Pino,1,1,1,-3,-1,0,-3,0,0,0,-3,0,-1,0,2,1
+471,55 años o más,Universitario INCOMPLETO,Hombre,Ciudad Evita,-1,3,1,-3,-3,-2,-3,0,-1,-3,-3,-2,-2,0,-2,1
+472,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Villa Luzuriaga,2,1,-1,-3,-2,0,2,0,0,0,-2,0,0,0,1,1
+473,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,San Justo,1,3,1,-3,-3,-1,-3,0,-3,0,-3,0,-3,-2,2,1
+474,Entre 25 y 34 años,Terciario INCOMPLETO,Hombre,Rafael Castillo,0,1,-1,1,1,-1,-1,0,0,0,2,2,0,0,1,2
+475,55 años o más,Terciario INCOMPLETO,Hombre,Villa Luzuriaga,-3,-3,-3,3,1,-1,1,0,3,0,1,3,0,0,-3,2
+476,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Ciudad Evita,-1,3,-2,-3,-2,-3,-3,0,0,0,-3,0,0,0,1,1
+477,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Rafael Castillo,-1,-1,1,2,2,0,2,0,0,2,-2,0,1,0,-1,2
+478,Entre 35 y 54 años,Primaria COMPLETA,Hombre,González Catán,3,3,3,-2,-1,1,1,0,0,0,-3,0,1,0,2,1
+479,55 años o más,Secundaria COMPLETA,Hombre,La Tablada,-1,-3,-2,1,2,2,1,0,1,-1,2,2,0,0,-2,2
+480,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Aldo Bonzi,-1,1,-3,-3,-3,0,-2,0,0,-1,0,-1,-3,-3,-1,1
+481,55 años o más,Secundaria INCOMPLETA,Mujer,Isidro Casanova,1,-3,-2,-3,-1,1,-3,0,0,0,-3,-2,1,0,-2,1
+482,Entre 25 y 34 años,Universitario COMPLETO,Hombre,Ramos Mejía,-2,-3,-3,1,2,-1,-1,0,-1,0,2,0,-1,-2,-3,2
+483,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Isidro Casanova,-1,0,-3,-1,-1,0,-1,0,0,-1,1,-1,0,0,0,2
+484,Entre 16 y 24 años,Terciario INCOMPLETO,Mujer,Villa Celina,1,-1,1,-3,-1,2,1,0,0,0,-3,0,0,0,1,1
+485,Entre 35 y 54 años,Universitario COMPLETO,Hombre,Ciudad Evita,-3,-3,-3,-2,-2,-2,2,0,-2,0,-2,1,0,0,-3,2
+486,55 años o más,Terciario COMPLETO,Mujer,Ciudad Evita,-2,-3,-3,1,1,1,-1,0,1,1,1,2,1,0,-2,2
+487,55 años o más,Posgrado y más,Hombre,Ciudad Evita,-1,3,2,-3,-3,-2,-3,0,-3,-2,-3,-2,-1,0,2,1
+488,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Ramos Mejía,2,1,0,-1,-1,0,1,0,0,0,-3,-2,0,0,1,1
+489,Entre 25 y 34 años,Terciario INCOMPLETO,Mujer,Villa Madero,1,3,1,-3,-2,0,-3,0,0,0,-2,0,0,0,2,1
+490,Entre 35 y 54 años,Universitario COMPLETO,Mujer,San Justo,-3,-3,-3,2,2,2,1,0,0,0,-1,-1,0,-3,-3,2
+491,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Isidro Casanova,2,1,-1,-3,2,0,-1,0,0,0,-3,0,1,0,2,1
+492,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Villa Luzuriaga,-3,-1,-3,-3,-1,-1,-2,0,0,0,-3,0,0,0,0,1
+493,Entre 35 y 54 años,Terciario INCOMPLETO,Hombre,San Justo,-3,-1,-1,1,-1,-1,2,0,2,2,1,2,1,0,-2,2
+494,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Ramos Mejía,1,-2,-3,-3,-3,-2,-2,0,0,1,-1,2,0,2,1,1
+495,Entre 16 y 24 años,Terciario INCOMPLETO,Mujer,Laferrere,-3,-3,-3,-3,-3,-3,0,0,0,0,0,0,0,0,-3,2
+496,55 años o más,Secundaria COMPLETA,Mujer,San Justo,-3,-3,-2,1,2,2,1,0,1,3,3,2,0,1,-3,2
+497,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Isidro Casanova,-1,-1,-2,-3,1,-2,-1,0,0,0,-3,0,-1,0,1,1
+498,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Virrey del Pino,1,1,-2,-3,-3,0,0,0,0,0,-2,0,-1,-1,-1,1
+499,Entre 16 y 24 años,Terciario INCOMPLETO,Mujer,Isidro Casanova,-2,1,-3,-3,1,-1,1,0,0,0,-3,-3,-3,0,1,1
+500,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Villa Celina,-3,-3,-3,2,2,0,1,0,1,0,-1,0,0,0,-2,2
+501,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Laferrere,-3,-3,-3,-2,-3,0,-2,0,0,0,-3,-1,-1,0,-1,1
+502,Entre 25 y 34 años,Universitario COMPLETO,Mujer,Virrey del Pino,-1,-2,-3,-2,1,0,1,0,0,0,-2,0,-2,0,-1,2
+503,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,González Catán,-1,-3,-3,3,3,2,2,0,-1,-1,1,0,-1,0,-2,2
+504,55 años o más,Universitario COMPLETO,Hombre,Ramos Mejía,-3,-3,-3,-1,1,0,1,0,2,2,2,2,0,0,-3,2
+505,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,Rafael Castillo,2,2,-1,-3,-3,-2,-3,0,-3,0,-3,0,-2,0,1,1
+506,Entre 16 y 24 años,Secundaria COMPLETA,Hombre,Laferrere,-3,-3,-3,1,2,1,1,0,0,0,-1,0,1,0,-2,2
+507,Entre 25 y 34 años,Universitario INCOMPLETO,Mujer,San Justo,-2,-3,-3,-1,1,0,0,0,0,0,-3,0,0,0,-1,2
+508,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Isidro Casanova,-3,-3,-3,1,3,3,1,0,2,-2,-2,1,-2,0,-3,2
+509,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Isidro Casanova,-3,-3,-3,-3,-3,-3,-3,0,-3,-3,-3,0,-3,0,-3,1
+510,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Lomas del Mirador,-3,-3,-3,-2,-2,1,-1,0,0,0,-3,0,0,0,-3,2
+511,Entre 16 y 24 años,Terciario COMPLETO,Mujer,Rafael Castillo,1,1,-3,-2,1,0,-1,0,0,0,-3,0,0,0,2,1
+512,55 años o más,Secundaria INCOMPLETA,Mujer,González Catán,3,3,1,-3,-3,-2,-3,0,-3,-3,-3,-3,0,0,3,1
+513,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,González Catán,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+514,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Isidro Casanova,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+515,55 años o más,Terciario COMPLETO,Hombre,Virrey del Pino,1,3,-1,-3,-2,-1,-3,0,-3,-2,-3,-2,-2,0,2,1
+516,Entre 25 y 34 años,Universitario COMPLETO,Mujer,Lomas del Mirador,1,3,-3,-3,-3,0,-3,0,-3,0,-3,0,0,0,1,1
+517,55 años o más,Terciario INCOMPLETO,Hombre,González Catán,-1,2,-2,-2,-1,0,-2,0,0,0,-2,-2,0,0,2,1
+518,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Lomas del Mirador,-3,-3,-1,-2,1,0,-1,0,0,1,2,2,1,-1,-2,2
+519,Entre 16 y 24 años,Terciario COMPLETO,Mujer,Virrey del Pino,2,2,-3,-2,1,0,1,0,0,0,-3,0,0,0,1,1
+520,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Villa Celina,1,-2,-3,-3,1,1,3,0,0,0,-2,0,0,0,1,2
+521,Entre 25 y 34 años,Universitario INCOMPLETO,Mujer,Villa Madero,-1,3,-3,-3,-3,-3,-3,0,0,-3,-3,0,0,0,-1,1
+522,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Isidro Casanova,-3,-3,-1,-1,1,0,1,0,0,0,2,-1,0,0,-3,2
+523,55 años o más,Secundaria COMPLETA,Mujer,Isidro Casanova,2,2,2,-3,-3,-2,-3,0,0,0,-3,0,-1,0,2,1
+524,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Laferrere,1,2,-2,-2,-2,1,-2,0,-2,-1,-2,1,-1,-1,-1,1
+525,Entre 35 y 54 años,Primaria COMPLETA,Mujer,González Catán,1,1,-1,-2,1,0,0,0,0,0,-2,0,0,0,1,1
+526,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Laferrere,3,3,1,-3,-3,-3,-3,0,0,-3,-3,0,-3,0,1,1
+527,55 años o más,Secundaria COMPLETA,Hombre,Ramos Mejía,-3,-3,-3,-1,2,2,-1,0,1,1,1,1,0,0,-3,2
+528,Entre 25 y 34 años,Universitario INCOMPLETO,Mujer,Ramos Mejía,-3,-3,-3,1,1,1,-1,0,-1,0,-1,0,-2,-2,-3,2
+529,Entre 25 y 34 años,Terciario INCOMPLETO,Hombre,Isidro Casanova,-3,-3,-3,-2,1,2,1,0,-3,-2,-1,0,0,0,-3,2
+530,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Villa Celina,1,-1,-1,-1,1,2,-1,0,1,1,3,0,0,0,2,2
+531,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Ramos Mejía,-3,-3,-3,1,1,-1,1,0,1,2,2,3,2,1,-3,2
+532,55 años o más,Secundaria INCOMPLETA,Hombre,Laferrere,-3,-3,-3,-1,2,1,1,0,2,1,-1,0,-2,-1,-1,2
+533,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Ciudad Evita,-1,-3,-3,-1,1,1,1,0,-2,-2,-2,1,-3,0,-3,2
+534,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,González Catán,-1,2,-2,-3,1,2,-1,0,0,0,-3,0,0,0,2,1
+535,Entre 16 y 24 años,Terciario INCOMPLETO,Mujer,Ramos Mejía,1,1,-1,-1,-2,0,-2,0,0,0,-3,0,1,0,-1,1
+536,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Laferrere,-2,-2,-2,-1,1,0,1,0,0,0,1,1,-1,0,-3,2
+537,Entre 25 y 34 años,Terciario INCOMPLETO,Mujer,Laferrere,1,1,1,-2,2,-1,-3,0,0,-1,-2,0,1,0,-1,1
+538,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,González Catán,-2,-2,-2,-2,-2,0,-1,0,0,0,-2,0,-2,0,-1,1
+539,Entre 25 y 34 años,Terciario COMPLETO,Mujer,Laferrere,1,1,-1,-2,1,0,-3,0,-1,0,-2,0,0,0,1,1
+540,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Laferrere,2,-3,-3,-3,1,1,-2,0,0,0,-3,1,0,0,-2,2
+541,55 años o más,Secundaria INCOMPLETA,Hombre,Lomas del Mirador,-3,-3,-3,-1,1,2,1,0,0,0,1,3,0,0,-3,2
+542,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,La Tablada,-1,-1,-3,-3,-1,-1,-3,0,-1,0,-3,0,-3,0,-1,1
+543,55 años o más,Terciario COMPLETO,Hombre,Villa Celina,-3,-3,-3,-3,0,0,2,0,2,2,3,3,1,0,-3,2
+544,Entre 35 y 54 años,Universitario COMPLETO,Hombre,Ramos Mejía,-2,-3,-3,3,3,-1,-1,0,3,1,1,3,0,0,-1,2
+545,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,González Catán,3,3,3,-3,-3,0,-2,0,0,0,-2,0,0,0,2,1
+546,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Rafael Castillo,2,2,2,1,2,1,2,0,1,1,-3,1,1,1,1,2
+547,Entre 35 y 54 años,Universitario COMPLETO,Mujer,González Catán,1,2,1,-1,-1,0,-3,0,0,0,-3,0,0,0,1,1
+548,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Rafael Castillo,1,2,-2,-2,-2,0,0,0,-1,0,-2,0,-2,0,1,1
+549,55 años o más,Secundaria COMPLETA,Mujer,Lomas del Mirador,0,3,-3,0,3,0,1,0,0,-1,-1,-1,-2,1,-1,2
+550,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Laferrere,2,3,1,-2,-2,-1,-3,0,-3,1,-3,1,-2,-1,2,1
+551,Entre 35 y 54 años,Primaria INCOMPLETA,Mujer,Villa Madero,3,3,2,-3,3,0,3,0,0,0,-3,0,2,0,2,1
+552,Entre 35 y 54 años,Universitario COMPLETO,Mujer,Isidro Casanova,-3,-2,-3,-3,-3,0,-3,0,0,0,-3,0,0,0,-3,1
+553,55 años o más,Terciario COMPLETO,Hombre,Laferrere,2,3,2,-3,-3,-2,-3,0,0,-3,-3,0,-3,-3,2,1
+554,55 años o más,Secundaria INCOMPLETA,Mujer,González Catán,-2,-2,1,2,3,0,0,0,0,0,-1,0,1,0,-1,2
+555,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Laferrere,-2,-3,-3,1,2,0,3,0,0,0,-1,0,0,0,1,2
+556,Entre 25 y 34 años,Terciario COMPLETO,Mujer,San Justo,-3,-3,-3,1,-1,-3,-1,0,-3,-1,-1,-1,0,-3,-3,2
+557,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Ciudad Evita,-3,-3,-2,-2,1,-1,1,0,0,0,1,1,0,0,-1,2
+558,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Tapiales,2,1,-1,-1,-2,0,-1,0,0,0,-3,0,0,0,1,1
+559,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Virrey del Pino,1,2,-1,-2,-1,0,0,0,0,0,-1,0,0,0,1,1
+560,55 años o más,Secundaria COMPLETA,Hombre,Ramos Mejía,1,2,1,-3,-2,1,-3,0,-3,-2,-3,-3,-2,0,1,1
+561,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Virrey del Pino,-1,-1,-1,-1,-1,0,0,0,0,0,3,0,0,0,-1,2
+562,Entre 35 y 54 años,Universitario INCOMPLETO,Mujer,Rafael Castillo,1,1,-1,-2,-2,0,2,0,0,-1,-1,0,0,0,-2,1
+563,55 años o más,Secundaria INCOMPLETA,Mujer,Ciudad Evita,1,3,1,-2,-2,-2,-2,0,0,0,-3,0,0,0,3,1
+564,Entre 25 y 34 años,Universitario COMPLETO,Hombre,San Justo,-3,-1,-3,-3,-2,1,-1,0,-1,-3,-3,-3,1,0,-3,1
+565,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,González Catán,2,3,1,-3,-3,-3,-3,0,-3,0,-3,-2,-2,0,3,1
+566,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,Virrey del Pino,2,2,2,-3,-2,1,-3,0,0,0,-2,0,-1,0,-2,1
+567,Entre 35 y 54 años,Secundaria COMPLETA,Hombre,González Catán,-1,2,-1,-3,-3,0,-3,0,0,-3,-3,0,-3,0,-3,1
+568,Entre 25 y 34 años,Universitario COMPLETO,Mujer,Ramos Mejía,-2,0,-3,-1,1,0,-3,0,0,0,-3,0,0,0,0,1
+569,55 años o más,Universitario INCOMPLETO,Hombre,Isidro Casanova,2,2,1,-3,-3,-2,-3,0,-1,0,-3,0,1,0,1,1
+570,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Isidro Casanova,3,-1,-1,-3,-3,0,-3,0,1,0,-3,-1,-1,0,2,1
+571,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Isidro Casanova,-1,-2,-2,-2,-1,-1,-1,0,-1,0,-3,0,0,0,-1,1
+572,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Ciudad Evita,-1,1,-3,-3,-3,0,-1,0,0,0,-3,0,-1,0,1,1
+573,Entre 35 y 54 años,Terciario COMPLETO,Mujer,Rafael Castillo,2,3,2,-3,-3,-2,-3,0,0,-3,-3,0,-1,0,1,1
+574,Entre 35 y 54 años,Universitario COMPLETO,Mujer,Ramos Mejía,2,1,1,-3,-3,-1,-3,0,0,0,-3,0,0,0,-1,1
+575,Entre 35 y 54 años,Universitario COMPLETO,Mujer,Ramos Mejía,-3,-3,-3,1,2,2,1,0,0,0,1,0,0,0,-1,2
+576,55 años o más,Terciario COMPLETO,Mujer,Ramos Mejía,-2,-2,-2,1,3,2,1,0,2,0,2,2,0,0,-3,2
+577,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Ramos Mejía,1,3,2,-2,-3,-3,-3,0,0,-1,-3,0,0,0,-1,1
+578,Entre 16 y 24 años,Terciario INCOMPLETO,Mujer,Laferrere,3,1,0,2,2,0,0,0,0,1,0,1,0,0,1,2
+579,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Isidro Casanova,-1,3,-1,-3,-3,-1,-3,0,0,-1,-3,-1,-3,-1,-1,1
+580,Entre 25 y 34 años,Secundaria COMPLETA,Mujer,Laferrere,1,1,-1,-3,-3,0,2,0,0,0,-3,0,0,0,1,1
+581,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Ciudad Evita,-2,-3,-3,-3,-2,-1,-3,0,0,0,-3,-1,-1,0,-3,1
+582,Entre 16 y 24 años,Terciario INCOMPLETO,Mujer,San Justo,-1,-1,-2,-2,-3,0,-3,0,0,0,-3,0,0,0,-2,1
+583,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,González Catán,1,1,-3,-2,-1,-1,-2,0,0,0,-2,0,0,0,1,1
+584,Entre 25 y 34 años,Terciario COMPLETO,Mujer,San Justo,1,3,-1,-2,1,2,2,0,-2,-2,-3,0,-2,0,1,1
+585,Entre 35 y 54 años,Terciario COMPLETO,Mujer,San Justo,-3,-3,-2,2,1,1,-3,0,0,0,-3,0,0,0,-2,2
+586,Entre 35 y 54 años,Primaria COMPLETA,Mujer,Rafael Castillo,-3,-3,-3,-1,3,0,3,0,0,0,2,0,0,0,-1,2
+587,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,La Tablada,-3,3,-3,-3,-3,-3,-2,0,0,0,-3,0,2,0,0,1
+588,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Villa Celina,-3,-3,-3,-2,0,0,0,0,0,-2,1,0,-2,-1,-3,2
+589,Entre 16 y 24 años,Secundaria COMPLETA,Hombre,González Catán,-1,-2,-1,-2,-1,-3,-1,0,0,0,-3,0,0,0,-1,1
+590,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Isidro Casanova,-2,-3,-3,1,3,-2,3,0,0,1,2,0,-3,0,-2,2
+591,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Laferrere,1,2,-2,-3,-3,0,1,0,0,0,-3,1,1,0,1,1
+592,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,González Catán,-1,3,-3,-3,-3,-3,1,0,0,0,0,0,0,0,1,1
+593,Entre 25 y 34 años,Universitario COMPLETO,Hombre,Ciudad Evita,2,3,-2,-3,3,0,1,0,0,0,-2,1,1,0,1,1
+594,Entre 25 y 34 años,Terciario INCOMPLETO,Mujer,San Justo,1,3,-1,-3,-3,-3,-3,0,0,0,-3,0,0,0,1,1
+595,Entre 25 y 34 años,Secundaria INCOMPLETA,Mujer,Ciudad Evita,3,3,1,-3,-3,1,-2,0,0,0,-3,0,0,0,1,1
+596,Entre 25 y 34 años,Secundaria COMPLETA,Hombre,Isidro Casanova,1,1,1,-2,-2,0,-2,0,0,0,-2,2,2,2,3,1
+597,Entre 35 y 54 años,Secundaria COMPLETA,Mujer,Laferrere,3,3,3,-3,3,0,-3,0,0,0,-3,0,0,0,3,1
+598,Entre 25 y 34 años,Universitario COMPLETO,Hombre,Ciudad Evita,-2,-1,-2,-3,-3,-2,-3,0,-1,-3,-3,0,-3,0,-2,1
+599,55 años o más,Terciario INCOMPLETO,Mujer,Villa Madero,3,3,-1,-2,-3,0,-3,0,0,0,-3,0,0,0,1,1
+600,Entre 35 y 54 años,Terciario COMPLETO,Mujer,San Justo,-3,-3,-3,-1,3,1,1,0,0,0,-2,0,1,0,2,2
+601,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Virrey del Pino,-3,-3,-1,-2,-1,0,-1,0,0,0,-3,-1,2,0,-1,2
+602,Entre 35 y 54 años,Secundaria INCOMPLETA,Hombre,Rafael Castillo,-3,-3,-3,-2,1,1,-3,0,1,-1,-1,-2,1,0,-3,2
+603,Entre 25 y 34 años,Primaria COMPLETA,Mujer,Isidro Casanova,2,2,2,1,0,0,0,0,0,0,1,0,0,0,2,1
+604,Entre 16 y 24 años,Universitario INCOMPLETO,Mujer,Ramos Mejía,1,-2,-2,1,2,1,-2,0,0,0,0,1,0,0,1,2
+605,Entre 35 y 54 años,Terciario COMPLETO,Hombre,Villa Madero,-1,1,-2,-3,-2,-1,-2,0,-2,0,-3,-3,0,0,-2,1
+606,Entre 16 y 24 años,Secundaria COMPLETA,Mujer,Ramos Mejía,-1,-1,0,-1,-1,0,1,0,0,0,-3,0,0,0,1,1
+607,Entre 35 y 54 años,Secundaria INCOMPLETA,Mujer,Laferrere,2,2,-2,-2,-1,0,0,0,0,0,2,0,-2,1,1,1
+608,55 años o más,Primaria INCOMPLETA,Mujer,Villa Celina,3,2,-1,-3,1,1,1,0,0,1,-2,0,1,0,2,1
+609,Entre 16 y 24 años,Secundaria INCOMPLETA,Mujer,San Justo,1,2,2,-3,0,0,0,0,0,0,-3,0,0,0,-1,1
+610,Entre 35 y 54 años,Terciario INCOMPLETO,Mujer,Laferrere,-1,-2,-3,1,1,0,0,0,0,0,-2,0,1,0,-1,2
